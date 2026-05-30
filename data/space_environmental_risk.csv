@@ -1,0 +1,973 @@
+ano,mes,periodo,uf,estado,regiao,latitude,longitude,focos_queimada,area_desmatada_km2,precipitacao_mm,temperatura_media_c,indice_vegetacao_ndvi,risco_ambiental_score,nivel_risco,fonte_referencia
+2024,1,2024-01,AC,Acre,Norte,-8.851947934932213,-69.99727551457241,554,74.78,351.8,29.0,0.717,31.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,AL,Alagoas,Nordeste,-9.485313204951888,-37.44964808563023,284,25.11,142.8,28.2,0.454,26.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,AP,Amapá,Norte,0.9156937045326479,-51.25702293087746,386,75.36,288.7,28.1,0.68,29.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,AM,Amazonas,Norte,-3.872847752097806,-64.968505693579,582,94.16,273.1,27.4,0.736,34.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,BA,Bahia,Nordeste,-13.330198825134566,-38.22210928076388,192,22.84,124.9,30.1,0.479,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,CE,Ceará,Nordeste,-4.941536697001607,-39.47002110158351,195,29.29,103.8,27.5,0.491,25.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,DF,Distrito Federal,Centro-Oeste,-15.46000722082338,-47.739733598651036,460,54.16,165.5,26.6,0.585,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,ES,Espírito Santo,Sudeste,-18.829150167126418,-40.01405195830933,112,17.14,171.1,24.1,0.584,16.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,GO,Goiás,Centro-Oeste,-16.044980641832336,-50.24721724090211,408,55.21,207.5,28.0,0.584,29.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,MA,Maranhão,Nordeste,-5.293427391233328,-45.66579191411179,236,37.49,155.5,28.5,0.535,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,MT,Mato Grosso,Centro-Oeste,-12.352334123468673,-55.389533526116644,665,97.93,198.9,28.5,0.466,39.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,MS,Mato Grosso do Sul,Centro-Oeste,-19.992737084340472,-54.721394576395774,444,59.17,153.7,27.0,0.63,30.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,MG,Minas Gerais,Sudeste,-17.920356398410327,-44.34602285772819,124,12.63,198.2,24.9,0.521,16.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,PA,Pará,Norte,-3.6863579030273983,-52.388630654737035,892,108.84,314.8,27.5,0.65,39.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,PB,Paraíba,Nordeste,-7.340797044227566,-35.606449999083104,250,26.55,112.3,28.3,0.461,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,PR,Paraná,Sul,-25.561569925354664,-51.55927985640722,96,12.73,224.9,21.0,0.576,9.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,PE,Pernambuco,Nordeste,-8.689037313166835,-34.67001201491974,252,43.17,131.3,28.8,0.478,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,PI,Piauí,Nordeste,-7.504600017169905,-41.963340530966505,283,32.87,120.1,29.7,0.403,30.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,RJ,Rio de Janeiro,Sudeste,-22.22600295881789,-43.03180629980413,135,14.01,181.2,24.2,0.465,16.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,RN,Rio Grande do Norte,Nordeste,-5.525268973920615,-37.020802510751885,271,22.34,158.5,28.0,0.462,25.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,RS,Rio Grande do Sul,Sul,-29.896361994877942,-53.93293274880733,93,11.59,179.3,20.9,0.594,10.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,RO,Rondônia,Norte,-11.068008652552471,-63.25871120599365,527,111.36,338.5,28.0,0.749,34.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,RR,Roraima,Norte,2.2197937630218405,-61.67113858457956,589,72.48,398.1,28.2,0.664,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,SC,Santa Catarina,Sul,-27.162278944001926,-50.28612245607112,102,11.29,199.4,21.6,0.603,11.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,SP,São Paulo,Sudeste,-22.070596808814177,-48.693158220234494,128,10.47,160.6,23.9,0.546,16.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,SE,Sergipe,Nordeste,-10.351016428282248,-37.7500051447457,287,28.08,157.0,28.4,0.63,26.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,1,2024-01,TO,Tocantins,Norte,-9.485490119429906,-48.55637780132394,480,99.43,318.7,28.4,0.756,33.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,AC,Acre,Norte,-8.709386675952086,-70.41513891709491,351,68.95,359.8,28.0,0.661,25.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,AL,Alagoas,Nordeste,-9.373725415771117,-36.40093206488866,210,28.95,135.2,27.7,0.5,25.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,AP,Amapá,Norte,1.5902666902071168,-50.42154397827085,666,59.93,291.6,28.2,0.758,32.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,AM,Amazonas,Norte,-3.2043607728273567,-65.37048882508815,662,114.36,363.5,28.3,0.713,36.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,BA,Bahia,Nordeste,-12.71980893336892,-39.074450554916375,209,21.65,135.6,30.5,0.377,28.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,CE,Ceará,Nordeste,-4.962140787872864,-39.785628321101,228,34.71,135.3,27.7,0.441,26.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,DF,Distrito Federal,Centro-Oeste,-16.538799905330162,-47.7947409898307,488,58.58,184.7,28.9,0.645,33.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,ES,Espírito Santo,Sudeste,-18.886985682040457,-40.760103742469525,145,19.0,162.6,24.5,0.578,18.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,GO,Goiás,Centro-Oeste,-16.421309384017267,-49.53874831853083,451,53.1,184.6,28.6,0.632,31.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,MA,Maranhão,Nordeste,-5.667684312966573,-45.28466320014882,385,38.84,110.6,28.2,0.55,30.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,MT,Mato Grosso,Centro-Oeste,-12.728398852987606,-55.8567241136877,700,66.47,198.4,24.6,0.554,31.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,MS,Mato Grosso do Sul,Centro-Oeste,-21.012551752912806,-54.13289268674576,608,39.75,189.6,27.3,0.689,30.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,MG,Minas Gerais,Sudeste,-18.075569270253496,-44.51485975890162,148,10.95,188.7,24.8,0.517,16.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,PA,Pará,Norte,-4.473230729832876,-52.53312478326245,806,134.65,387.5,26.8,0.847,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,PB,Paraíba,Nordeste,-7.266277664930474,-35.252639266042635,276,29.73,124.6,28.4,0.453,27.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,PR,Paraná,Sul,-24.669629905326737,-51.840148253822726,95,7.63,243.5,21.0,0.625,8.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,PE,Pernambuco,Nordeste,-7.832817286474051,-35.27704998609254,224,32.6,143.9,28.6,0.486,27.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,PI,Piauí,Nordeste,-7.425271627399776,-42.273082417495985,274,26.75,130.9,29.5,0.525,28.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,RJ,Rio de Janeiro,Sudeste,-22.216051412252547,-42.451695041097075,165,18.4,172.7,24.9,0.543,18.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,RN,Rio Grande do Norte,Nordeste,-5.532918057112972,-36.37155806403175,213,40.89,118.6,27.6,0.544,27.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,RS,Rio Grande do Sul,Sul,-29.82870809330379,-53.55147008352575,100,8.98,197.5,20.9,0.543,10.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,RO,Rondônia,Norte,-10.744709475977832,-63.254261700111954,577,95.4,342.9,27.3,0.685,32.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,RR,Roraima,Norte,1.7385445225616474,-61.40470650309914,508,77.09,336.0,26.6,0.653,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,SC,Santa Catarina,Sul,-27.800885277623234,-50.95647959759734,95,11.92,242.4,20.7,0.579,8.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,SP,São Paulo,Sudeste,-22.228066051959903,-48.64940089726537,126,14.26,161.9,25.0,0.634,17.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,SE,Sergipe,Nordeste,-10.840553424349414,-37.441421439009375,281,25.53,137.8,28.6,0.485,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,2,2024-02,TO,Tocantins,Norte,-9.154687777147764,-48.19583029799158,638,117.76,363.7,29.5,0.688,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,AC,Acre,Norte,-8.954014257588266,-70.81569643154378,724,62.11,295.3,27.3,0.613,32.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,AL,Alagoas,Nordeste,-9.884445134971926,-36.60782828997272,256,30.11,163.6,29.4,0.448,27.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,AP,Amapá,Norte,1.8838553309578945,-51.810088945838416,426,120.65,372.0,27.4,0.636,31.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,AM,Amazonas,Norte,-3.6275229150177353,-64.88200252367837,729,62.71,304.4,27.8,0.733,32.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,BA,Bahia,Nordeste,-13.353624732143254,-39.04693995975747,171,23.76,136.2,29.0,0.519,26.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,CE,Ceará,Nordeste,-4.787245985577661,-39.50636853150646,307,30.05,122.7,29.8,0.486,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,DF,Distrito Federal,Centro-Oeste,-15.350978954863677,-48.197723211203034,644,80.4,194.0,28.0,0.645,36.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,ES,Espírito Santo,Sudeste,-19.284292392055598,-40.08886021047142,185,19.73,142.5,23.7,0.438,18.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,GO,Goiás,Centro-Oeste,-15.999441694613816,-49.72557709287124,606,60.11,237.6,26.1,0.516,30.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,MA,Maranhão,Nordeste,-5.291690613866103,-45.76895792521457,288,19.74,132.9,27.6,0.517,25.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,MT,Mato Grosso,Centro-Oeste,-12.463583719568755,-55.60559016643035,591,64.78,198.3,28.0,0.556,34.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,MS,Mato Grosso do Sul,Centro-Oeste,-19.822346203479267,-54.527657756809894,402,56.63,175.8,26.8,0.544,29.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,MG,Minas Gerais,Sudeste,-17.834872301483443,-44.56567540166369,127,15.15,176.8,24.4,0.584,16.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,PA,Pará,Norte,-3.2142613002745506,-52.56716261384473,737,116.92,239.7,26.6,0.805,38.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,PB,Paraíba,Nordeste,-7.394439154210149,-36.112256212090145,275,29.92,182.4,29.5,0.473,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,PR,Paraná,Sul,-24.299500427724603,-51.24142608506769,93,7.5,184.0,20.3,0.521,9.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,PE,Pernambuco,Nordeste,-8.091381484710368,-35.43303615401426,249,37.12,135.5,27.9,0.564,27.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,PI,Piauí,Nordeste,-8.199498650836698,-42.5329607671583,241,22.61,112.8,29.3,0.585,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,RJ,Rio de Janeiro,Sudeste,-22.540832540743864,-42.565340110977054,145,14.29,166.8,23.9,0.553,16.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,RN,Rio Grande do Norte,Nordeste,-5.634678984331466,-36.932144335679496,247,26.53,120.2,28.1,0.522,26.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,RS,Rio Grande do Sul,Sul,-29.970290465992395,-53.76714070478988,91,10.49,177.7,21.2,0.544,11.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,RO,Rondônia,Norte,-10.60649263942792,-63.92153202179414,478,70.69,329.0,28.0,0.68,29.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,RR,Roraima,Norte,1.855405559519561,-60.97779751677494,553,63.09,302.5,27.8,0.683,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,SC,Santa Catarina,Sul,-28.31507557504455,-51.22891333941467,80,10.65,191.5,21.2,0.659,10.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,SP,São Paulo,Sudeste,-22.24448703238723,-48.381276278419065,152,12.41,186.8,24.1,0.555,16.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,SE,Sergipe,Nordeste,-10.431941750167596,-37.59734456828709,261,30.08,127.9,28.2,0.456,27.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,3,2024-03,TO,Tocantins,Norte,-9.602826380557543,-48.97334358731225,617,129.57,360.3,27.5,0.796,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,AC,Acre,Norte,-8.655575419182542,-70.6266851850831,402,42.0,197.8,27.8,0.822,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,AL,Alagoas,Nordeste,-9.169686084877576,-36.661526257376956,287,14.38,90.3,29.2,0.399,28.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,AP,Amapá,Norte,1.2492236851609144,-52.06744552931268,518,97.97,297.4,27.9,0.744,33.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,AM,Amazonas,Norte,-3.3532182631495684,-64.73686101950973,688,76.68,213.8,27.4,0.756,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,BA,Bahia,Nordeste,-12.695053984174129,-38.83275786346217,197,22.98,71.4,28.2,0.501,27.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,CE,Ceará,Nordeste,-5.635629146158996,-40.1525520871165,289,36.35,93.1,30.1,0.437,32.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,DF,Distrito Federal,Centro-Oeste,-14.97398680713411,-47.81477258630867,596,66.35,127.6,27.4,0.548,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,ES,Espírito Santo,Sudeste,-19.024986075002403,-39.68129142623374,168,18.55,125.6,24.8,0.507,19.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,GO,Goiás,Centro-Oeste,-15.960496280698957,-49.47703296853517,593,79.49,117.0,26.4,0.603,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,MA,Maranhão,Nordeste,-5.99919983515302,-45.15189029561333,213,41.9,84.2,28.3,0.424,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,MT,Mato Grosso,Centro-Oeste,-12.730856972977262,-55.946100033591335,640,61.84,98.8,26.9,0.702,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,MS,Mato Grosso do Sul,Centro-Oeste,-20.266327772315304,-53.89286536676913,449,54.52,66.3,27.2,0.597,33.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,MG,Minas Gerais,Sudeste,-18.09512474783047,-44.3884437804885,181,13.45,92.5,26.7,0.553,23.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,PA,Pará,Norte,-3.9801986698968177,-52.729496023937,815,119.39,189.3,27.4,0.728,43.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,PB,Paraíba,Nordeste,-6.623870182625829,-36.275686581342846,254,26.43,110.1,26.5,0.54,24.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,PR,Paraná,Sul,-24.276705344801734,-51.222512562398386,84,8.26,106.2,20.2,0.519,11.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,PE,Pernambuco,Nordeste,-8.70774473311218,-34.82045054943966,307,32.45,69.1,28.2,0.507,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,PI,Piauí,Nordeste,-7.304234568822513,-43.10837216465996,239,25.69,97.8,29.0,0.46,28.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,RJ,Rio de Janeiro,Sudeste,-21.926590543277584,-42.72471574775504,183,18.09,109.1,24.9,0.481,20.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,RN,Rio Grande do Norte,Nordeste,-5.597896517029025,-37.0381502733737,226,34.46,75.7,27.5,0.394,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,RS,Rio Grande do Sul,Sul,-30.360721680383133,-53.36030235997678,118,4.88,185.7,21.0,0.575,10.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,RO,Rondônia,Norte,-10.849930968302374,-63.232269380887786,657,122.35,215.5,27.9,0.71,40.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,RR,Roraima,Norte,1.9964518765728876,-61.208346403123414,387,60.49,239.4,27.9,0.72,28.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,SC,Santa Catarina,Sul,-28.045904261483244,-50.58979552693603,81,7.46,147.2,20.0,0.602,9.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,SP,São Paulo,Sudeste,-22.83430598096608,-49.237851938357494,149,14.02,136.0,25.9,0.606,20.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,SE,Sergipe,Nordeste,-10.834384026323663,-37.66403123104718,221,28.16,94.7,28.0,0.49,27.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,4,2024-04,TO,Tocantins,Norte,-9.792289611091181,-47.33866627730691,446,72.83,159.7,27.0,0.788,32.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,AC,Acre,Norte,-8.727296564874123,-69.65397041160593,553,80.9,178.5,28.4,0.698,36.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,AL,Alagoas,Nordeste,-9.789438470225718,-36.14564300470108,245,35.08,75.7,28.6,0.577,29.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,AP,Amapá,Norte,0.8604213480383403,-52.024498011538704,631,75.36,235.1,28.6,0.764,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,AM,Amazonas,Norte,-3.336930752147913,-64.88629498915066,579,91.47,234.7,27.9,0.657,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,BA,Bahia,Nordeste,-13.541336326730598,-38.359633623303594,245,31.3,99.7,29.0,0.476,29.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,CE,Ceará,Nordeste,-5.21384430384983,-39.29147475591958,259,29.67,66.7,27.7,0.538,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,DF,Distrito Federal,Centro-Oeste,-15.991796351046766,-48.01207367960131,472,58.38,150.7,26.8,0.615,31.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,ES,Espírito Santo,Sudeste,-19.255405075456476,-40.49390587039596,155,16.78,105.6,25.6,0.501,21.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,GO,Goiás,Centro-Oeste,-15.668629221531798,-49.8312006037536,601,61.67,152.8,26.0,0.625,32.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,MA,Maranhão,Nordeste,-5.57592588249027,-44.931315433008805,337,29.29,108.7,30.4,0.46,32.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,MT,Mato Grosso,Centro-Oeste,-12.96152818126947,-55.77144926836323,768,71.63,119.1,27.0,0.536,38.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,MS,Mato Grosso do Sul,Centro-Oeste,-20.165487160533196,-54.614896095478926,405,57.56,134.3,28.4,0.555,32.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,MG,Minas Gerais,Sudeste,-17.92764205759715,-44.278790974632265,147,16.78,92.2,24.9,0.559,20.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,PA,Pará,Norte,-4.013085494557282,-52.06384421411235,1042,110.05,190.9,27.3,0.699,45.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,PB,Paraíba,Nordeste,-6.838473863785571,-35.47897694270204,313,24.48,73.7,29.0,0.45,30.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,PR,Paraná,Sul,-24.789947113246285,-51.43294012350454,65,12.06,188.2,20.3,0.559,9.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,PE,Pernambuco,Nordeste,-8.53582551397967,-35.08159444050583,279,40.38,83.9,28.0,0.404,29.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,PI,Piauí,Nordeste,-6.825573650944232,-42.91580407052211,330,24.81,90.2,28.6,0.545,29.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,RJ,Rio de Janeiro,Sudeste,-22.375752231775472,-42.45327080925769,150,19.68,129.7,26.1,0.582,21.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,RN,Rio Grande do Norte,Nordeste,-5.3262443531368655,-36.36295153934363,299,33.05,94.6,29.5,0.544,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,RS,Rio Grande do Sul,Sul,-30.307668584314577,-53.48993931197281,87,9.29,173.1,20.1,0.6,9.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,RO,Rondônia,Norte,-10.604080536600623,-62.58286084684309,789,105.1,212.9,26.7,0.771,39.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,RR,Roraima,Norte,2.087657534019619,-61.11723622159921,528,90.15,220.6,29.1,0.725,36.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,SC,Santa Catarina,Sul,-27.403460614048594,-51.195042285228716,93,8.12,147.2,21.7,0.524,12.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,SP,São Paulo,Sudeste,-22.21301259137555,-48.98431983434262,170,7.76,103.9,24.9,0.636,19.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,SE,Sergipe,Nordeste,-10.92743148599575,-37.20207524344523,334,19.08,52.4,29.0,0.452,30.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,5,2024-05,TO,Tocantins,Norte,-9.494711552322785,-47.61367705138331,612,79.63,162.5,28.5,0.766,37.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,AC,Acre,Norte,-8.854432620249716,-70.42678061122,824,114.33,87.8,27.8,0.692,46.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,AL,Alagoas,Nordeste,-9.410136373296176,-36.58058145191873,406,60.69,45.6,29.5,0.448,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,AP,Amapá,Norte,1.3785925069994707,-51.265958974592685,1081,171.26,164.6,28.0,0.718,54.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,AM,Amazonas,Norte,-3.7083680801162084,-64.80577475785394,1050,205.9,112.6,26.7,0.686,57.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,BA,Bahia,Nordeste,-13.514365988220003,-38.243854870349494,377,42.84,17.4,28.2,0.296,33.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,CE,Ceará,Nordeste,-5.60542764121739,-39.0038105943815,497,54.42,31.8,28.6,0.429,37.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,DF,Distrito Federal,Centro-Oeste,-15.916512083882209,-48.09869448679923,943,104.48,70.3,27.4,0.447,46.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,ES,Espírito Santo,Sudeste,-18.989596026525344,-39.8502255971949,275,28.61,99.9,25.1,0.468,23.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,GO,Goiás,Centro-Oeste,-15.666682372990294,-49.63768986941131,965,110.21,54.7,27.8,0.581,48.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,MA,Maranhão,Nordeste,-5.661215736331348,-44.83241266889216,583,56.79,67.4,28.8,0.543,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,MT,Mato Grosso,Centro-Oeste,-12.457007579187575,-55.620795001378504,1190,136.54,58.4,26.9,0.582,54.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,MS,Mato Grosso do Sul,Centro-Oeste,-20.46798903564861,-54.32526870954435,867,134.64,109.7,27.5,0.561,47.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,MG,Minas Gerais,Sudeste,-18.26911526180478,-43.82910463284849,244,25.73,27.8,24.9,0.535,24.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,PA,Pará,Norte,-3.950609492004129,-52.102461708299046,1347,198.22,122.6,28.6,0.772,63.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,PB,Paraíba,Nordeste,-6.543210877595936,-35.066968026048386,460,50.74,60.6,29.1,0.342,35.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,PR,Paraná,Sul,-25.125068178778317,-51.558943924847,156,17.43,89.5,21.0,0.499,15.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,PE,Pernambuco,Nordeste,-7.877932004869763,-35.67889982257233,515,55.15,41.1,29.2,0.272,38.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,PI,Piauí,Nordeste,-7.58872364139425,-42.74642220260771,446,44.9,26.6,29.5,0.403,36.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,RJ,Rio de Janeiro,Sudeste,-22.794803664530914,-42.80984030633807,319,29.87,35.8,25.4,0.472,26.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,RN,Rio Grande do Norte,Nordeste,-5.083138205753706,-36.45632259171896,530,57.04,41.4,28.3,0.411,37.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,RS,Rio Grande do Sul,Sul,-30.195060440794926,-53.513027782778444,173,18.69,83.0,20.6,0.518,15.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,RO,Rondônia,Norte,-11.529370239586237,-63.019285313854134,1295,188.72,142.0,27.7,0.683,60.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,RR,Roraima,Norte,2.3778639858581307,-61.69396707449393,1070,177.98,4.1,29.5,0.671,61.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,SC,Santa Catarina,Sul,-27.373898494387095,-50.64547629425894,176,14.56,60.9,22.3,0.519,17.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,SP,São Paulo,Sudeste,-22.11961533364976,-48.42227096139734,265,24.8,70.1,26.5,0.496,26.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,SE,Sergipe,Nordeste,-10.971220887556541,-37.34407758716634,512,59.11,56.8,27.7,0.519,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,6,2024-06,TO,Tocantins,Norte,-8.895201055829475,-48.101262994470105,1011,165.84,126.6,28.1,0.702,54.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,AC,Acre,Norte,-8.524589540191185,-70.654147226176,907,161.43,159.3,26.8,0.712,49.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,AL,Alagoas,Nordeste,-9.953696280413322,-37.284017808908004,524,50.88,48.8,28.5,0.43,36.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,AP,Amapá,Norte,0.9469185723073755,-51.19529469395228,1196,143.08,76.4,26.1,0.644,53.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,AM,Amazonas,Norte,-4.344792000205751,-64.29817009959324,1220,158.81,199.7,28.6,0.661,55.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,BA,Bahia,Nordeste,-12.762631807981675,-38.301835980417145,344,35.45,62.8,30.6,0.505,34.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,CE,Ceará,Nordeste,-5.463887606103337,-39.62823627690337,500,56.48,51.2,28.7,0.426,36.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,DF,Distrito Federal,Centro-Oeste,-15.34279919977939,-47.53858918789919,726,106.05,46.7,26.3,0.569,42.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,ES,Espírito Santo,Sudeste,-18.99748176534141,-40.678920559202275,258,26.12,82.0,23.8,0.487,21.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,GO,Goiás,Centro-Oeste,-15.82583384171386,-49.86687322962434,895,92.42,55.7,27.5,0.471,45.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,MA,Maranhão,Nordeste,-5.3771958739387005,-45.249845689837265,561,61.47,68.1,28.7,0.405,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,MT,Mato Grosso,Centro-Oeste,-12.027648139884572,-55.855352132386955,1177,145.37,53.4,26.7,0.482,54.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,MS,Mato Grosso do Sul,Centro-Oeste,-20.745721718485356,-54.44235204322167,810,98.13,90.4,27.0,0.628,42.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,MG,Minas Gerais,Sudeste,-17.955170315891976,-44.4448506806072,249,34.19,37.8,24.8,0.534,25.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,PA,Pará,Norte,-3.985122124752742,-52.95943104285267,1458,226.75,108.5,28.6,0.801,69.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,PB,Paraíba,Nordeste,-7.253755884597798,-35.35085592228515,458,67.69,34.3,29.9,0.521,39.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,PR,Paraná,Sul,-25.117247140773102,-51.97837909336679,192,15.9,71.7,20.3,0.473,15.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,PE,Pernambuco,Nordeste,-7.988264863436876,-35.76780747490001,464,47.06,50.5,27.4,0.447,33.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,PI,Piauí,Nordeste,-7.956754149515443,-42.7495191771802,479,59.36,28.0,29.9,0.452,39.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,RJ,Rio de Janeiro,Sudeste,-22.744800073916743,-42.69892912147204,321,29.87,73.7,23.9,0.508,23.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,RN,Rio Grande do Norte,Nordeste,-6.192309467635402,-36.70074295739318,421,47.27,66.1,29.5,0.463,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,RS,Rio Grande do Sul,Sul,-30.278190762470878,-53.4532606833262,186,16.93,136.3,21.1,0.54,14.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,RO,Rondônia,Norte,-11.472671880586153,-63.16220303558061,1207,201.14,150.5,27.2,0.606,59.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,RR,Roraima,Norte,2.2834717710580748,-61.30135972450835,924,118.37,128.9,29.8,0.679,49.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,SC,Santa Catarina,Sul,-27.683831658775066,-50.60278517766222,164,18.47,69.4,21.0,0.547,16.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,SP,São Paulo,Sudeste,-22.193191648825472,-48.40993655195895,245,21.61,73.6,23.9,0.501,21.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,SE,Sergipe,Nordeste,-10.566376583054817,-37.90914268132256,483,51.65,59.6,29.7,0.46,37.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,7,2024-07,TO,Tocantins,Norte,-9.274607535975145,-48.28467457232068,980,161.28,91.0,27.7,0.682,53.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,AC,Acre,Norte,-9.193393159994388,-70.34002494450132,1494,144.41,39.0,27.9,0.671,61.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,AL,Alagoas,Nordeste,-9.687980089891314,-36.99469093223933,785,59.31,43.5,30.7,0.437,44.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,AP,Amapá,Norte,1.5629283594112224,-51.353273803824784,1575,151.76,120.6,28.8,0.679,62.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,AM,Amazonas,Norte,-3.5486678906624394,-65.50953955912077,1829,143.73,17.1,29.4,0.604,69.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,BA,Bahia,Nordeste,-13.15118555688837,-38.37286859810911,549,48.92,58.7,29.0,0.286,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,CE,Ceará,Nordeste,-5.540574129308545,-39.11119997441743,650,52.93,46.6,30.0,0.436,40.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,DF,Distrito Federal,Centro-Oeste,-15.890531120973199,-47.26090203195018,1334,106.95,48.0,27.7,0.51,54.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,ES,Espírito Santo,Sudeste,-18.826033359411376,-40.55196543890791,432,23.92,93.1,25.3,0.462,26.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,GO,Goiás,Centro-Oeste,-15.720266619796742,-49.75524759685773,1529,118.1,58.4,29.8,0.526,61.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,MA,Maranhão,Nordeste,-5.657200379413237,-44.73531446336568,890,69.71,47.3,28.9,0.454,45.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,MT,Mato Grosso,Centro-Oeste,-12.219855132219452,-55.64991299763999,1830,140.19,74.0,27.0,0.506,64.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,MS,Mato Grosso do Sul,Centro-Oeste,-20.774878280999314,-55.03763373335964,1259,114.15,97.2,28.7,0.614,54.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,MG,Minas Gerais,Sudeste,-17.94043927977144,-43.62224917928462,470,25.5,57.2,26.6,0.53,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,PA,Pará,Norte,-3.6122574852986316,-52.29159637233263,2215,243.48,116.3,28.9,0.763,83.3,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,PB,Paraíba,Nordeste,-6.340327504520887,-35.93612292800259,765,49.55,33.8,28.7,0.321,40.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,PR,Paraná,Sul,-25.094077103499128,-51.60849259982524,254,16.1,84.7,22.4,0.576,18.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,PE,Pernambuco,Nordeste,-8.047991555966405,-34.659284149880136,729,50.27,71.9,29.9,0.469,41.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,PI,Piauí,Nordeste,-7.5047725934357175,-42.29660092499822,725,43.81,53.1,29.0,0.4,39.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,RJ,Rio de Janeiro,Sudeste,-22.052071624028958,-43.27626696570453,473,30.69,97.9,25.7,0.642,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,RN,Rio Grande do Norte,Nordeste,-6.238504382701278,-36.663158140050115,750,54.15,67.0,30.0,0.421,42.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,RS,Rio Grande do Sul,Sul,-30.588559071712318,-53.34438906612295,244,15.5,91.9,23.0,0.551,19.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,RO,Rondônia,Norte,-10.60310184815465,-63.382331852012726,2015,176.2,109.0,28.7,0.636,72.7,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,RR,Roraima,Norte,2.5944373479316916,-61.46987266496511,1648,142.31,97.5,29.3,0.658,64.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,SC,Santa Catarina,Sul,-27.008095563800484,-51.14315035106236,261,18.5,40.6,20.3,0.445,17.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,SP,São Paulo,Sudeste,-21.468473748177264,-48.3670718192924,463,22.29,66.3,26.7,0.609,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,SE,Sergipe,Nordeste,-10.571181060093833,-37.509564617883726,762,55.45,59.0,29.1,0.384,41.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,8,2024-08,TO,Tocantins,Norte,-9.859591189946727,-48.327780810747896,1640,180.23,150.4,28.8,0.76,66.0,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,AC,Acre,Norte,-8.549215910405827,-70.90846538851522,1372,107.88,111.0,28.6,0.762,54.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,AL,Alagoas,Nordeste,-9.70027237162487,-36.39893798310354,800,59.32,55.9,29.3,0.376,42.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,AP,Amapá,Norte,0.7910462220530019,-51.656891300035326,1795,188.3,95.5,27.8,0.687,69.6,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,AM,Amazonas,Norte,-3.8794708924986008,-66.10529177464858,1719,163.01,53.5,29.1,0.65,68.7,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,BA,Bahia,Nordeste,-12.795929010373742,-38.8594349037159,629,56.5,72.8,29.1,0.396,38.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,CE,Ceará,Nordeste,-5.507293905364796,-39.81940812391395,730,56.52,66.0,29.4,0.418,41.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,DF,Distrito Federal,Centro-Oeste,-15.924893260364898,-47.867478553021954,1328,111.99,90.9,27.5,0.641,53.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,ES,Espírito Santo,Sudeste,-19.166553248971297,-40.15942127380357,450,21.07,80.9,26.1,0.484,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,GO,Goiás,Centro-Oeste,-16.45480363161819,-49.696749506148265,1242,102.7,88.1,27.1,0.575,50.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,MA,Maranhão,Nordeste,-5.34980078096917,-45.037976927699944,829,50.14,65.0,28.9,0.384,41.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,MT,Mato Grosso,Centro-Oeste,-12.768459743679163,-55.70965657722705,1733,145.64,79.6,28.7,0.569,65.7,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,MS,Mato Grosso do Sul,Centro-Oeste,-21.337026352439644,-54.893405746648476,1355,93.62,1.9,28.4,0.609,55.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,MG,Minas Gerais,Sudeste,-17.618793253298136,-44.60608746269359,444,33.88,62.9,24.9,0.489,27.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,PA,Pará,Norte,-3.67692225440939,-52.5683237257442,2199,216.79,77.9,28.8,0.768,81.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,PB,Paraíba,Nordeste,-5.942412351254299,-35.445436482072004,703,42.17,60.6,29.4,0.419,39.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,PR,Paraná,Sul,-24.56826987289868,-51.783850429938646,245,15.81,106.3,21.8,0.45,17.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,PE,Pernambuco,Nordeste,-7.981529213707223,-34.900343513946936,801,58.45,39.9,30.5,0.433,44.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,PI,Piauí,Nordeste,-8.044292902772273,-42.58174032704228,678,47.84,62.9,29.2,0.407,39.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,RJ,Rio de Janeiro,Sudeste,-22.091669871312593,-43.03183773485141,534,25.84,63.0,26.6,0.495,30.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,RN,Rio Grande do Norte,Nordeste,-5.607128389375248,-36.475971289196245,736,50.65,62.2,30.4,0.571,42.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,RS,Rio Grande do Sul,Sul,-29.708840862537215,-53.852289897847875,261,15.95,85.5,21.5,0.538,17.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,RO,Rondônia,Norte,-10.376051908703612,-63.34800382180461,2009,212.66,109.6,27.0,0.646,74.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,RR,Roraima,Norte,1.8616114558648593,-61.46711535216534,1505,149.55,146.1,29.1,0.666,61.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,SC,Santa Catarina,Sul,-27.100591185648213,-51.10106710945132,243,19.85,68.6,22.7,0.613,19.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,SP,São Paulo,Sudeste,-21.774312214038453,-48.95261605405444,399,24.19,43.7,25.8,0.434,27.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,SE,Sergipe,Nordeste,-10.265045945889964,-37.92109288808636,725,53.55,42.8,30.0,0.403,42.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,9,2024-09,TO,Tocantins,Norte,-9.39714637632114,-48.13727946525425,1698,203.74,76.1,28.2,0.707,70.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,AC,Acre,Norte,-8.534599204579044,-69.88504132278668,981,155.2,156.3,29.0,0.666,52.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,AL,Alagoas,Nordeste,-9.273402412997353,-36.96736486508387,456,45.8,64.1,29.4,0.31,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,AP,Amapá,Norte,1.5895870293616288,-51.860841337154376,1026,165.38,121.4,29.3,0.655,56.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,AM,Amazonas,Norte,-3.1871797706015994,-64.97144944030953,1193,183.47,78.6,29.6,0.65,62.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,BA,Bahia,Nordeste,-12.680020334320284,-39.0757087129528,489,44.21,41.4,29.5,0.412,36.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,CE,Ceará,Nordeste,-5.2590876031165035,-39.50548174291039,415,45.22,61.7,30.9,0.423,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,DF,Distrito Federal,Centro-Oeste,-15.76364643419044,-47.5096338676015,967,95.47,75.2,28.9,0.587,48.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,ES,Espírito Santo,Sudeste,-18.709219509192966,-40.388106980119694,224,31.99,48.9,24.0,0.527,23.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,GO,Goiás,Centro-Oeste,-15.953598226384443,-50.42068803416401,967,130.02,100.2,29.4,0.6,52.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,MA,Maranhão,Nordeste,-5.226980118385836,-45.42473914376964,525,54.89,80.7,29.4,0.436,37.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,MT,Mato Grosso,Centro-Oeste,-12.85411918181685,-55.43296287896695,1317,136.91,74.2,27.5,0.486,56.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,MS,Mato Grosso do Sul,Centro-Oeste,-20.24398041270864,-54.51114608647292,833,98.46,37.0,28.0,0.476,46.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,MG,Minas Gerais,Sudeste,-18.756310364376013,-44.33974087229841,231,25.55,46.8,25.8,0.573,25.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,PA,Pará,Norte,-4.068609049881221,-52.103397501490484,1454,238.62,122.2,28.1,0.661,69.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,PB,Paraíba,Nordeste,-7.691098886689581,-36.10444758005192,463,63.51,45.9,28.9,0.346,37.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,PR,Paraná,Sul,-24.838622445805058,-50.9857227801106,170,17.66,36.4,22.4,0.502,18.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,PE,Pernambuco,Nordeste,-8.353895583589692,-35.41551283450291,502,50.15,32.9,27.8,0.389,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,PI,Piauí,Nordeste,-7.555320772650707,-43.111639677104996,456,52.27,43.3,29.0,0.438,36.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,RJ,Rio de Janeiro,Sudeste,-21.916402178130365,-42.559506542179356,347,29.25,62.9,26.1,0.512,27.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,RN,Rio Grande do Norte,Nordeste,-5.882840900045388,-36.63498812900363,434,54.03,29.0,29.6,0.427,37.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,RS,Rio Grande do Sul,Sul,-29.727002255697357,-53.803161196875074,136,15.56,79.3,21.8,0.472,16.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,RO,Rondônia,Norte,-10.5082960392365,-62.98979618868496,1320,195.82,89.6,30.1,0.613,66.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,RR,Roraima,Norte,1.9429919404853082,-61.046217104394074,968,185.45,104.6,28.9,0.693,57.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,SC,Santa Catarina,Sul,-27.055653202110346,-51.33183825057532,179,13.19,110.3,20.4,0.586,13.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,SP,São Paulo,Sudeste,-21.73139193885814,-48.301510666223514,238,20.38,58.0,25.3,0.542,23.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,SE,Sergipe,Nordeste,-10.00454601175812,-37.88202210515797,437,50.51,20.6,28.9,0.482,36.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,10,2024-10,TO,Tocantins,Norte,-9.625843771474822,-48.265058294807396,1028,166.56,124.8,28.1,0.702,54.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,AC,Acre,Norte,-8.899503860458744,-70.64057862193349,559,77.52,194.5,27.7,0.725,34.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,AL,Alagoas,Nordeste,-9.159406376844675,-36.65062523273067,321,31.46,82.1,29.2,0.462,31.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,AP,Amapá,Norte,1.4600300831672972,-51.163619750180224,549,94.47,151.4,26.9,0.664,36.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,AM,Amazonas,Norte,-3.7457243131678837,-65.31729665938788,829,104.95,230.1,26.4,0.7,39.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,BA,Bahia,Nordeste,-12.876263597561099,-37.784071065587504,212,21.73,55.8,29.2,0.421,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,CE,Ceará,Nordeste,-5.630342358058346,-39.356155271867216,208,12.41,82.2,29.5,0.588,27.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,DF,Distrito Federal,Centro-Oeste,-15.666307389882098,-47.47997478627123,430,56.65,190.2,26.0,0.624,28.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,ES,Espírito Santo,Sudeste,-18.972449838550382,-40.46936361761527,167,17.08,107.4,24.8,0.531,20.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,GO,Goiás,Centro-Oeste,-15.538327474750103,-50.177006305301916,511,58.79,155.0,27.2,0.512,32.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,MA,Maranhão,Nordeste,-5.050380116826882,-45.36186638005479,260,28.81,108.1,26.9,0.653,25.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,MT,Mato Grosso,Centro-Oeste,-12.608646761560664,-55.48906844710756,629,81.94,141.0,27.7,0.641,37.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,MS,Mato Grosso do Sul,Centro-Oeste,-20.280434728214587,-54.47184233184843,457,55.51,155.2,27.7,0.448,31.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,MG,Minas Gerais,Sudeste,-17.957531699506415,-44.72007985708945,147,13.03,138.9,25.4,0.507,19.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,PA,Pará,Norte,-3.536216474603201,-52.29933759950976,656,110.26,243.9,28.6,0.758,39.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,PB,Paraíba,Nordeste,-6.812093653479628,-35.42699312736044,221,30.66,99.2,29.2,0.545,28.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,PR,Paraná,Sul,-25.126312396241033,-51.600581534750425,107,8.95,119.6,20.7,0.539,12.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,PE,Pernambuco,Nordeste,-8.565981020873867,-34.83926401604866,214,26.1,57.1,28.8,0.48,28.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,PI,Piauí,Nordeste,-7.419683805323888,-42.797839148570475,292,18.1,74.8,28.0,0.428,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,RJ,Rio de Janeiro,Sudeste,-22.152918071714634,-42.18376949145647,157,8.95,128.8,23.6,0.553,16.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,RN,Rio Grande do Norte,Nordeste,-5.736619204653881,-36.76207266497122,191,9.4,89.5,30.0,0.548,27.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,RS,Rio Grande do Sul,Sul,-29.204118986381125,-53.36265441148743,103,7.07,154.4,21.2,0.638,11.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,RO,Rondônia,Norte,-11.013430939277107,-63.2866757947882,609,101.0,143.9,27.2,0.707,38.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,RR,Roraima,Norte,2.0443167393506427,-61.041215607366325,477,107.21,211.1,27.8,0.712,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,SC,Santa Catarina,Sul,-27.61667730574063,-50.64396378675055,75,7.7,134.4,19.7,0.535,9.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,SP,São Paulo,Sudeste,-22.226127613526376,-48.69712317771013,143,13.8,133.3,24.5,0.571,18.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,SE,Sergipe,Nordeste,-10.23211088039309,-37.01735424736783,223,12.98,84.6,29.7,0.531,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,11,2024-11,TO,Tocantins,Norte,-9.038640446990915,-48.30880619648835,596,94.03,187.6,27.5,0.764,36.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,AC,Acre,Norte,-8.962687897322054,-70.97724934906995,458,77.41,350.1,26.6,0.604,26.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,AL,Alagoas,Nordeste,-9.46483397413621,-36.56222749958481,227,27.09,127.3,29.8,0.498,28.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,AP,Amapá,Norte,0.8661844318943774,-51.483738619691245,445,105.66,324.3,28.3,0.671,32.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,AM,Amazonas,Norte,-2.895064466360413,-65.41521725712674,642,75.81,294.2,28.7,0.665,34.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,BA,Bahia,Nordeste,-12.945678288611498,-38.86076560952351,248,22.62,143.7,28.2,0.471,25.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,CE,Ceará,Nordeste,-5.2668597169100595,-38.68558460243548,283,24.84,130.8,27.8,0.339,26.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,DF,Distrito Federal,Centro-Oeste,-16.243284485358096,-47.4699874068659,536,57.75,193.7,27.2,0.64,31.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,ES,Espírito Santo,Sudeste,-18.98286505319052,-40.46391424882936,186,18.53,188.2,24.6,0.587,18.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,GO,Goiás,Centro-Oeste,-15.922333705567219,-49.84218930435039,430,60.46,235.7,26.2,0.529,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,MA,Maranhão,Nordeste,-5.7099739586730855,-45.476139166052164,297,33.98,130.9,29.8,0.392,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,MT,Mato Grosso,Centro-Oeste,-13.081057667810404,-55.635726492813816,495,76.06,238.3,27.2,0.623,31.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,MS,Mato Grosso do Sul,Centro-Oeste,-20.4237233275488,-54.365622388026125,438,53.95,229.5,27.6,0.549,28.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,MG,Minas Gerais,Sudeste,-18.181906950687445,-44.216774568943784,182,19.96,158.0,24.0,0.481,18.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,PA,Pará,Norte,-3.0586614474068297,-53.04268135949132,894,120.68,315.1,27.9,0.684,41.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,PB,Paraíba,Nordeste,-7.123137088616843,-35.069503033863214,258,40.47,134.4,28.4,0.46,28.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,PR,Paraná,Sul,-24.684006355580248,-52.10934352315931,54,12.04,184.0,20.6,0.556,9.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,PE,Pernambuco,Nordeste,-8.130939477832436,-35.06329827790449,270,40.47,113.1,28.8,0.444,29.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,PI,Piauí,Nordeste,-8.162645535254907,-43.0647527318863,221,31.01,162.5,28.4,0.52,26.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,RJ,Rio de Janeiro,Sudeste,-22.687642706889402,-42.448419635775615,179,21.22,186.5,24.3,0.55,17.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,RN,Rio Grande do Norte,Nordeste,-5.833146415119037,-35.85509737379172,289,25.22,127.0,28.8,0.456,28.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,RS,Rio Grande do Sul,Sul,-30.3972805634125,-53.037543588704445,85,8.29,203.9,21.4,0.57,10.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,RO,Rondônia,Norte,-10.553281040293031,-64.02953633619914,803,90.12,256.3,28.6,0.692,39.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,RR,Roraima,Norte,1.8475372904756269,-61.08978854006515,649,63.08,355.0,27.8,0.678,30.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,SC,Santa Catarina,Sul,-27.413475421866874,-51.2645744169131,91,10.16,271.0,19.5,0.669,6.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,SP,São Paulo,Sudeste,-22.697911491518045,-48.794231131746116,95,12.45,198.3,24.5,0.633,15.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,SE,Sergipe,Nordeste,-10.500368148621227,-37.297141506893276,193,30.24,148.2,28.3,0.337,25.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2024,12,2024-12,TO,Tocantins,Norte,-10.082505654402281,-48.148121860928356,628,113.68,286.5,28.3,0.796,37.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,AC,Acre,Norte,-8.758046653879191,-70.93053607860197,483,80.5,340.4,27.6,0.693,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,AL,Alagoas,Nordeste,-10.17403235507671,-37.01714762831748,216,33.86,116.4,29.3,0.505,28.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,AP,Amapá,Norte,1.3219613898844265,-51.97912856814208,713,72.6,309.6,28.3,0.773,34.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,AM,Amazonas,Norte,-3.7606555422947983,-64.91712006315699,784,131.35,364.4,28.0,0.686,39.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,BA,Bahia,Nordeste,-13.309321219560045,-38.64438994518332,252,34.75,144.5,27.5,0.538,26.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,CE,Ceará,Nordeste,-5.012923023031807,-39.21932060094416,276,41.97,182.8,29.2,0.47,28.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,DF,Distrito Federal,Centro-Oeste,-15.68244468628494,-47.56637082483564,471,84.39,205.1,27.7,0.647,33.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,ES,Espírito Santo,Sudeste,-19.029779496846842,-39.753927648328364,156,14.99,156.2,25.1,0.593,18.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,GO,Goiás,Centro-Oeste,-15.6828142612399,-49.962888431682465,507,71.24,174.5,27.0,0.648,32.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,MA,Maranhão,Nordeste,-5.244766997516576,-45.42257920948666,304,25.08,128.8,29.5,0.512,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,MT,Mato Grosso,Centro-Oeste,-12.824112194933655,-56.17367002195494,673,74.57,216.0,27.7,0.637,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,MS,Mato Grosso do Sul,Centro-Oeste,-20.139022265583684,-54.32404791764816,591,55.37,179.8,27.9,0.588,33.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,MG,Minas Gerais,Sudeste,-18.049814036430213,-45.00168233151442,177,10.46,204.3,25.0,0.53,17.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,PA,Pará,Norte,-4.010242187792476,-51.94319530152922,884,109.97,275.8,26.7,0.791,39.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,PB,Paraíba,Nordeste,-7.25190055377171,-35.49399362095152,240,19.16,116.9,29.7,0.471,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,PR,Paraná,Sul,-25.03471280639315,-51.458901822695985,103,11.75,257.5,20.7,0.507,8.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,PE,Pernambuco,Nordeste,-8.545473367145023,-35.15064024997202,221,23.78,139.7,28.7,0.482,26.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,PI,Piauí,Nordeste,-8.233785239281527,-42.95750837704241,223,35.16,150.5,27.3,0.429,25.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,RJ,Rio de Janeiro,Sudeste,-22.225729482037313,-42.91260814366804,172,11.86,159.9,23.9,0.561,16.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,RN,Rio Grande do Norte,Nordeste,-6.264853432924658,-36.29959365374229,272,26.31,130.1,30.1,0.554,29.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,RS,Rio Grande do Sul,Sul,-30.491125987354994,-53.14381848660477,108,7.27,241.4,22.2,0.518,10.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,RO,Rondônia,Norte,-10.463438802682493,-62.930643502650284,727,118.0,340.2,28.3,0.657,38.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,RR,Roraima,Norte,1.9682331440502412,-60.93647632404532,570,90.34,269.0,28.4,0.761,35.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,SC,Santa Catarina,Sul,-27.37114222728567,-51.07933442509168,89,10.66,194.3,20.9,0.57,10.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,SP,São Paulo,Sudeste,-21.70649107245833,-49.242291943286965,139,16.81,170.0,23.5,0.646,16.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,SE,Sergipe,Nordeste,-10.84431798295524,-37.69168936831069,296,26.58,138.4,29.0,0.467,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,1,2025-01,TO,Tocantins,Norte,-8.939463845632426,-48.46301863447951,530,79.98,324.7,27.4,0.768,30.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,AC,Acre,Norte,-8.60121286656177,-70.98318184781455,558,91.5,345.2,28.0,0.771,32.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,AL,Alagoas,Nordeste,-9.643259836852776,-36.4044576832819,304,35.15,122.4,28.8,0.518,29.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,AP,Amapá,Norte,1.3291967691543307,-51.26135876783764,831,76.29,274.7,28.2,0.77,37.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,AM,Amazonas,Norte,-3.738329805724172,-65.292344997568,506,111.56,304.2,29.3,0.84,36.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,BA,Bahia,Nordeste,-12.964843211132983,-38.75140472092246,271,23.73,133.6,28.8,0.374,27.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,CE,Ceará,Nordeste,-5.297916058973542,-39.2533698363819,242,38.57,114.7,29.4,0.465,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,DF,Distrito Federal,Centro-Oeste,-16.20980268429523,-48.14889368549263,526,68.76,222.2,27.1,0.576,31.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,ES,Espírito Santo,Sudeste,-18.998457320917712,-40.147890657638925,262,21.34,151.0,23.7,0.577,19.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,GO,Goiás,Centro-Oeste,-16.06042987070132,-50.15799225199111,486,61.11,207.4,27.4,0.488,30.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,MA,Maranhão,Nordeste,-5.251059239476776,-45.292966928341855,315,52.82,140.1,28.5,0.531,30.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,MT,Mato Grosso,Centro-Oeste,-12.445570573780214,-55.741540279020136,723,109.24,173.5,27.7,0.559,41.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,MS,Mato Grosso do Sul,Centro-Oeste,-20.490773061150055,-54.78835294916221,462,57.71,222.4,28.1,0.541,30.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,MG,Minas Gerais,Sudeste,-18.582166125263985,-44.57767090145983,120,14.5,172.7,26.7,0.574,19.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,PA,Pará,Norte,-3.653635037920184,-52.783902456156724,945,168.96,267.0,26.4,0.833,46.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,PB,Paraíba,Nordeste,-7.414863583302388,-35.52000949350882,289,13.44,134.4,29.0,0.531,26.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,PR,Paraná,Sul,-24.66210231536172,-51.249542109170164,80,10.05,197.5,20.6,0.525,9.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,PE,Pernambuco,Nordeste,-7.362722418139509,-35.45918845902096,254,29.92,111.7,28.5,0.477,28.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,PI,Piauí,Nordeste,-7.573794281516225,-42.748592228556134,330,35.82,138.7,30.2,0.5,31.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,RJ,Rio de Janeiro,Sudeste,-22.530013497539176,-42.68223360111537,211,20.82,166.1,23.7,0.539,18.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,RN,Rio Grande do Norte,Nordeste,-6.596411266894611,-36.80234510316786,320,26.86,133.7,28.8,0.527,28.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,RS,Rio Grande do Sul,Sul,-30.39237683608897,-53.916383330681626,98,11.92,207.9,19.4,0.614,7.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,RO,Rondônia,Norte,-10.383793735552448,-63.11196730303118,637,104.08,304.2,26.2,0.779,33.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,RR,Roraima,Norte,1.7330391704275265,-61.30130155525525,478,87.35,327.0,28.4,0.767,31.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,SC,Santa Catarina,Sul,-26.956339299178772,-50.80658302141418,102,12.42,238.5,21.6,0.585,10.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,SP,São Paulo,Sudeste,-22.086198559200735,-48.62788532165634,117,18.85,193.6,24.4,0.524,16.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,SE,Sergipe,Nordeste,-10.240541296731381,-37.811383366234644,273,31.6,160.9,29.6,0.49,28.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,2,2025-02,TO,Tocantins,Norte,-9.841371563069837,-48.5346666678447,663,129.95,318.9,27.3,0.694,37.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,AC,Acre,Norte,-8.23825062672538,-70.37122276901533,496,55.45,327.8,28.7,0.68,28.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,AL,Alagoas,Nordeste,-9.509856231072265,-36.586362073005326,311,25.63,147.7,27.9,0.529,26.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,AP,Amapá,Norte,0.9315017677389139,-51.47313902556667,475,74.23,349.9,27.2,0.755,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,AM,Amazonas,Norte,-3.3788452078332556,-65.28859464966746,516,108.9,351.0,27.4,0.762,32.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,BA,Bahia,Nordeste,-13.052206875628787,-38.27230002859663,187,14.03,139.8,27.5,0.485,23.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,CE,Ceará,Nordeste,-5.035756343567016,-40.06745024312249,251,27.65,145.8,29.0,0.497,27.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,DF,Distrito Federal,Centro-Oeste,-15.877073874540606,-47.743149011701014,562,69.3,176.2,27.2,0.608,33.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,ES,Espírito Santo,Sudeste,-19.05461701775878,-39.95815685118492,217,20.77,151.8,25.2,0.623,20.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,GO,Goiás,Centro-Oeste,-15.971633934850265,-49.982994982499804,678,75.77,205.6,28.2,0.618,36.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,MA,Maranhão,Nordeste,-5.291322747453003,-46.175009277678065,377,29.39,158.2,29.1,0.403,29.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,MT,Mato Grosso,Centro-Oeste,-12.817011346491679,-55.79061765546981,725,94.29,186.0,27.4,0.717,38.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,MS,Mato Grosso do Sul,Centro-Oeste,-20.769869481388437,-54.70985704237875,623,86.52,199.9,28.2,0.684,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,MG,Minas Gerais,Sudeste,-18.28583981423419,-44.49729822341001,193,21.2,190.8,24.0,0.659,17.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,PA,Pará,Norte,-3.774769865974787,-52.28465116991852,877,158.85,359.7,28.3,0.755,44.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,PB,Paraíba,Nordeste,-7.131564927345142,-34.93558350558958,151,27.85,138.1,27.8,0.501,24.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,PR,Paraná,Sul,-24.821741255590155,-51.81539872411065,120,8.62,216.6,20.9,0.555,9.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,PE,Pernambuco,Nordeste,-8.501052205207865,-34.98139216668671,214,33.52,144.2,28.1,0.529,26.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,PI,Piauí,Nordeste,-7.782050800808119,-42.99130242128908,301,29.47,141.4,28.3,0.469,27.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,RJ,Rio de Janeiro,Sudeste,-22.334524106054772,-42.68161746995104,169,11.51,168.9,24.5,0.536,17.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,RN,Rio Grande do Norte,Nordeste,-5.980521022418224,-36.71317246123578,286,35.07,124.2,27.8,0.423,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,RS,Rio Grande do Sul,Sul,-30.365098068587915,-53.644549237750205,82,6.97,208.8,21.1,0.613,9.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,RO,Rondônia,Norte,-10.955870385358361,-63.23461243128289,607,106.97,295.0,28.4,0.632,36.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,RR,Roraima,Norte,1.3683137832867418,-61.35820991225386,612,142.11,340.5,27.1,0.725,37.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,SC,Santa Catarina,Sul,-26.841402026851334,-51.062434968141275,81,11.35,206.4,20.9,0.545,9.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,SP,São Paulo,Sudeste,-22.864685402770967,-48.88760918795276,197,16.77,189.1,25.0,0.572,18.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,SE,Sergipe,Nordeste,-10.133587899562848,-37.47170140327811,303,29.38,112.4,28.7,0.574,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,3,2025-03,TO,Tocantins,Norte,-9.555897578640257,-48.345184392781256,719,88.78,262.5,27.2,0.816,35.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,AC,Acre,Norte,-8.666531428938516,-71.08082489229727,504,118.07,272.9,29.7,0.721,38.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,AL,Alagoas,Nordeste,-9.863041850867395,-36.992756341236536,331,22.49,90.0,27.9,0.448,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,AP,Amapá,Norte,1.8362857033069453,-51.94961872757969,539,80.79,242.8,27.1,0.742,32.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,AM,Amazonas,Norte,-3.3006431720841864,-65.48580225244274,568,94.09,255.9,28.1,0.701,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,BA,Bahia,Nordeste,-12.772813932278932,-38.079856824128825,263,28.64,81.9,28.1,0.431,28.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,CE,Ceará,Nordeste,-5.518389195943642,-39.85777723117636,236,32.5,54.1,28.3,0.478,29.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,DF,Distrito Federal,Centro-Oeste,-16.04240281225001,-47.69980969488125,441,65.21,124.5,25.6,0.493,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,ES,Espírito Santo,Sudeste,-19.055953855340675,-40.29056000096939,93,15.2,104.6,25.9,0.529,20.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,GO,Goiás,Centro-Oeste,-16.709439528824507,-49.25635617258361,327,72.51,133.9,27.8,0.826,32.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,MA,Maranhão,Nordeste,-5.304671942549446,-45.971010793835084,294,36.2,86.0,28.4,0.449,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,MT,Mato Grosso,Centro-Oeste,-12.827367280455679,-55.29454123362663,736,77.69,102.7,27.0,0.679,39.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,MS,Mato Grosso do Sul,Centro-Oeste,-20.275970818334734,-54.50567636116137,436,71.15,144.8,28.8,0.6,34.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,MG,Minas Gerais,Sudeste,-18.06788663044307,-44.291715861250665,195,12.73,131.1,24.6,0.546,19.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,PA,Pará,Norte,-3.9494388341083546,-52.79123428987991,831,133.51,271.1,28.7,0.778,44.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,PB,Paraíba,Nordeste,-7.633819456883901,-35.687364887121305,307,35.08,109.6,28.3,0.467,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,PR,Paraná,Sul,-25.291691986435485,-51.520176692628134,111,8.62,158.6,20.8,0.598,11.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,PE,Pernambuco,Nordeste,-8.116665156311871,-34.537647820494215,130,28.53,61.2,29.7,0.523,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,PI,Piauí,Nordeste,-8.097202729344072,-43.01857995653468,222,40.44,101.2,28.6,0.542,29.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,RJ,Rio de Janeiro,Sudeste,-22.126623261075093,-42.859622978244786,156,15.1,93.6,25.7,0.536,21.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,RN,Rio Grande do Norte,Nordeste,-5.114453400269217,-36.27102304723885,183,31.34,56.8,28.7,0.405,28.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,RS,Rio Grande do Sul,Sul,-30.077592971533218,-53.05467627496263,97,12.04,120.6,21.4,0.591,13.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,RO,Rondônia,Norte,-10.797319669003173,-63.73557130363588,774,113.03,148.2,27.2,0.723,42.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,RR,Roraima,Norte,1.6568285389922175,-61.302881818518394,836,119.85,234.0,28.0,0.718,42.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,SC,Santa Catarina,Sul,-27.751134753772824,-51.09476193669758,99,7.08,150.8,20.8,0.475,11.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,SP,São Paulo,Sudeste,-21.811058131139525,-48.954893628136254,199,15.87,87.8,25.1,0.465,21.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,SE,Sergipe,Nordeste,-10.20656740214324,-37.981771126416895,260,37.85,66.6,27.6,0.448,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,4,2025-04,TO,Tocantins,Norte,-9.603999312490602,-47.856134743010486,337,87.18,232.1,28.9,0.705,32.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,AC,Acre,Norte,-8.757945645902955,-71.42091457369455,345,74.69,218.3,28.3,0.702,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,AL,Alagoas,Nordeste,-9.689892220300218,-36.720337680151204,235,32.47,71.3,28.8,0.505,29.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,AP,Amapá,Norte,1.4884757415017775,-51.519886573277184,496,87.25,234.3,28.1,0.698,34.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,AM,Amazonas,Norte,-3.950085794030663,-65.34830435084963,434,120.38,198.3,28.3,0.796,38.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,BA,Bahia,Nordeste,-12.888463838938959,-38.93075233412663,220,21.29,113.7,28.1,0.449,25.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,CE,Ceará,Nordeste,-5.730064608213269,-39.41744237603127,247,31.64,81.5,28.7,0.451,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,DF,Distrito Federal,Centro-Oeste,-15.234119869654638,-47.789184921252016,646,61.71,134.1,27.9,0.54,36.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,ES,Espírito Santo,Sudeste,-19.1080914409764,-40.426985016326064,223,14.38,153.4,25.4,0.58,20.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,GO,Goiás,Centro-Oeste,-15.871500355892056,-49.87980597111496,609,64.5,83.3,26.5,0.6,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,MA,Maranhão,Nordeste,-5.453060550054701,-45.29313650979156,362,22.41,88.9,27.3,0.522,27.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,MT,Mato Grosso,Centro-Oeste,-12.437049950146704,-55.66741239879558,599,99.32,153.1,27.8,0.603,38.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,MS,Mato Grosso do Sul,Centro-Oeste,-20.962599540315527,-54.339663391088514,570,82.53,153.7,26.8,0.63,35.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,MG,Minas Gerais,Sudeste,-18.523316927396582,-44.243857444726736,170,8.68,91.4,24.5,0.533,19.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,PA,Pará,Norte,-3.959246519346288,-52.694258421004186,868,125.77,182.4,28.8,0.821,46.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,PB,Paraíba,Nordeste,-6.598594186301566,-35.52456181648473,287,27.47,84.5,29.3,0.375,30.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,PR,Paraná,Sul,-24.875536028705284,-51.394949254343416,88,9.36,141.3,19.6,0.662,9.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,PE,Pernambuco,Nordeste,-9.024529597123022,-35.104683005084446,307,23.39,94.1,28.5,0.527,28.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,PI,Piauí,Nordeste,-7.748732878995066,-43.04382477956032,237,32.34,94.0,28.2,0.441,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,RJ,Rio de Janeiro,Sudeste,-22.82094653541133,-43.0930993233779,199,15.66,55.1,24.5,0.493,21.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,RN,Rio Grande do Norte,Nordeste,-5.970681608576647,-36.83311012920711,269,37.86,91.6,28.3,0.505,29.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,RS,Rio Grande do Sul,Sul,-30.315588424781577,-53.831011121243876,76,6.07,132.2,21.1,0.575,11.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,RO,Rondônia,Norte,-11.343374816715487,-63.51549075140998,761,82.65,240.6,27.1,0.689,36.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,RR,Roraima,Norte,1.874223771485355,-61.60306969519111,691,100.92,248.3,28.4,0.669,38.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,SC,Santa Catarina,Sul,-27.593390307420325,-50.70068724414695,116,7.17,165.1,21.7,0.681,12.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,SP,São Paulo,Sudeste,-22.849102572820506,-48.92031166852827,211,11.73,83.6,23.2,0.589,18.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,SE,Sergipe,Nordeste,-10.903310733258579,-37.686948298460486,284,30.82,93.3,28.9,0.55,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,5,2025-05,TO,Tocantins,Norte,-9.872314303581733,-47.6764715609571,545,111.43,245.3,28.3,0.795,37.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,AC,Acre,Norte,-9.027356211238683,-70.29748223668493,1141,165.7,181.8,26.6,0.65,52.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,AL,Alagoas,Nordeste,-9.915755669315262,-37.076397838143876,442,59.57,68.2,29.3,0.445,36.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,AP,Amapá,Norte,1.0352016534604465,-51.1010033195011,1224,183.39,112.6,27.6,0.568,59.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,AM,Amazonas,Norte,-3.141729561871271,-65.09562523733246,1056,185.72,152.4,26.9,0.689,54.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,BA,Bahia,Nordeste,-12.805542496905264,-38.7666046689885,560,38.04,63.4,28.6,0.471,35.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,CE,Ceará,Nordeste,-4.829658586219498,-39.4013330559266,500,43.46,56.3,29.0,0.464,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,DF,Distrito Federal,Centro-Oeste,-15.91333865270922,-47.84389903846135,934,102.5,53.1,28.3,0.638,48.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,ES,Espírito Santo,Sudeste,-19.322302764656378,-40.25899392711605,296,35.5,76.3,26.3,0.451,27.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,GO,Goiás,Centro-Oeste,-16.300695935197304,-49.38559501961308,994,113.26,49.4,28.1,0.599,50.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,MA,Maranhão,Nordeste,-5.409488982292571,-46.19333424061321,621,64.52,48.1,29.2,0.382,40.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,MT,Mato Grosso,Centro-Oeste,-12.859706867129578,-55.52081360587273,1318,133.62,104.5,27.1,0.547,54.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,MS,Mato Grosso do Sul,Centro-Oeste,-20.886359337567235,-53.953262440477125,1041,81.99,99.3,27.6,0.493,45.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,MG,Minas Gerais,Sudeste,-18.024181258608383,-44.739013439274096,263,24.18,86.1,25.0,0.447,23.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,PA,Pará,Norte,-3.790109785414121,-52.89365594389728,1670,259.56,134.3,28.2,0.776,74.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,PB,Paraíba,Nordeste,-7.078866697152009,-35.893806253132055,510,67.76,31.0,28.5,0.452,38.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,PR,Paraná,Sul,-24.799708406572588,-51.163642929839305,194,22.24,81.9,20.2,0.444,15.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,PE,Pernambuco,Nordeste,-7.960179932515045,-35.61100542534176,511,54.89,37.7,27.9,0.475,36.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,PI,Piauí,Nordeste,-7.762139258418554,-42.55402545058668,561,58.44,68.7,27.7,0.354,36.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,RJ,Rio de Janeiro,Sudeste,-22.58764689901275,-42.09003600582968,376,33.86,57.4,23.9,0.567,25.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,RN,Rio Grande do Norte,Nordeste,-5.929317757071128,-36.44008915766867,477,64.71,57.4,28.6,0.4,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,RS,Rio Grande do Sul,Sul,-30.009641159823957,-53.84290242865088,177,16.47,72.6,21.0,0.412,15.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,RO,Rondônia,Norte,-10.1463593018657,-63.52405788656333,1179,167.08,45.9,26.9,0.64,57.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,RR,Roraima,Norte,2.497824641897724,-60.69748117472674,1116,176.22,119.1,27.9,0.613,56.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,SC,Santa Catarina,Sul,-27.704895270842314,-50.192230376267695,149,15.62,69.7,20.2,0.557,14.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,SP,São Paulo,Sudeste,-22.47567603558969,-48.762649927960624,300,26.48,83.8,25.6,0.468,25.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,SE,Sergipe,Nordeste,-10.596482961514042,-36.75961023812357,529,55.76,22.2,28.1,0.425,37.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,6,2025-06,TO,Tocantins,Norte,-9.287999691547931,-48.06058387498047,1013,186.64,170.7,29.8,0.657,57.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,AC,Acre,Norte,-8.725837733718311,-70.6278662138724,1008,149.91,130.7,25.9,0.717,49.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,AL,Alagoas,Nordeste,-9.76254034902779,-36.8314588982008,582,50.75,40.6,30.3,0.383,40.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,AP,Amapá,Norte,1.382972634171934,-51.62095471947956,1182,172.58,65.0,27.5,0.646,58.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,AM,Amazonas,Norte,-3.314530585448265,-64.71453696479247,1228,148.54,154.5,28.2,0.755,55.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,BA,Bahia,Nordeste,-12.648837007202038,-38.309189452648454,452,56.61,55.0,28.7,0.554,36.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,CE,Ceará,Nordeste,-5.150656055135779,-38.97398057518474,432,46.97,51.4,28.9,0.395,35.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,DF,Distrito Federal,Centro-Oeste,-15.974765482970374,-48.0271759539114,980,99.18,67.1,26.7,0.538,46.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,ES,Espírito Santo,Sudeste,-18.808930621024167,-40.471705253723755,286,30.93,50.8,22.4,0.612,21.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,GO,Goiás,Centro-Oeste,-15.62176427453513,-49.79864962737312,941,101.06,109.0,28.9,0.568,47.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,MA,Maranhão,Nordeste,-5.45198984512819,-45.46830747425291,508,61.16,48.9,28.4,0.417,37.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,MT,Mato Grosso,Centro-Oeste,-13.376976429644115,-55.016243379839075,1248,140.01,53.0,26.3,0.613,54.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,MS,Mato Grosso do Sul,Centro-Oeste,-20.86370937697512,-54.72032643783288,1038,109.88,9.3,27.1,0.555,50.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,MG,Minas Gerais,Sudeste,-18.174709872772656,-44.20633028442284,336,30.58,43.2,23.5,0.481,24.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,PA,Pará,Norte,-3.854102664868653,-52.60483559696295,1505,249.15,187.6,28.6,0.676,70.0,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,PB,Paraíba,Nordeste,-7.540362941759435,-35.43695892373381,543,51.04,47.6,28.8,0.401,37.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,PR,Paraná,Sul,-24.29078590059374,-52.161672778439886,175,18.64,63.2,21.9,0.481,17.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,PE,Pernambuco,Nordeste,-9.055886593773922,-34.894039317378216,509,57.84,34.4,29.1,0.499,38.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,PI,Piauí,Nordeste,-7.779278205144639,-42.00623278164275,378,48.96,72.3,28.3,0.364,32.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,RJ,Rio de Janeiro,Sudeste,-22.683668445884326,-41.92645477436679,269,27.68,93.6,26.2,0.493,25.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,RN,Rio Grande do Norte,Nordeste,-5.694202043384547,-36.08214949665403,561,59.09,34.2,28.7,0.42,38.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,RS,Rio Grande do Sul,Sul,-29.65671069925249,-53.88905308732974,190,15.52,112.1,21.2,0.567,15.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,RO,Rondônia,Norte,-11.474027210577013,-63.35129821386732,1292,188.95,54.5,28.2,0.817,63.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,RR,Roraima,Norte,1.7251326080444258,-62.096472596742494,1162,170.97,109.8,26.9,0.692,55.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,SC,Santa Catarina,Sul,-27.37148112012767,-50.633593855833546,195,19.55,78.2,21.1,0.588,16.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,SP,São Paulo,Sudeste,-22.089565450994403,-49.08118422112306,256,30.35,69.1,24.9,0.429,24.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,SE,Sergipe,Nordeste,-9.897871374249508,-37.87801325684445,461,49.89,30.2,30.4,0.502,38.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,7,2025-07,TO,Tocantins,Norte,-9.598680387335616,-47.88606723320709,1160,152.61,87.7,27.2,0.747,54.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,AC,Acre,Norte,-9.11068259330946,-70.19750333223439,1592,195.37,57.9,29.9,0.742,71.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,AL,Alagoas,Nordeste,-9.56976101336488,-36.50625449946399,775,53.51,34.0,29.1,0.542,42.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,AP,Amapá,Norte,1.421909593875281,-51.73101958935599,1622,153.89,155.2,27.8,0.656,61.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,AM,Amazonas,Norte,-3.5694542842750794,-64.68183299834307,1820,189.63,140.4,29.4,0.625,71.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,BA,Bahia,Nordeste,-12.295781544138908,-38.84176245104414,708,39.86,52.3,28.1,0.432,37.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,CE,Ceará,Nordeste,-5.422000046691291,-39.61258949552384,722,59.61,22.8,29.1,0.462,42.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,DF,Distrito Federal,Centro-Oeste,-15.873306438034914,-47.699768036525974,1491,119.12,75.9,28.0,0.579,58.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,ES,Espírito Santo,Sudeste,-19.5799162575567,-40.249468598250616,486,30.73,41.9,25.6,0.454,29.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,GO,Goiás,Centro-Oeste,-15.824329167258941,-50.14897878898075,1475,126.0,59.7,28.6,0.589,59.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,MA,Maranhão,Nordeste,-4.645614136210965,-45.56601374406494,888,65.94,47.0,28.0,0.438,43.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,MT,Mato Grosso,Centro-Oeste,-12.384016911598753,-55.21335227856199,1866,158.31,76.9,29.2,0.49,70.0,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,MS,Mato Grosso do Sul,Centro-Oeste,-20.22294463463558,-54.56264101176138,1416,118.06,93.6,28.9,0.496,57.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,MG,Minas Gerais,Sudeste,-18.49184114493411,-44.51773544958941,453,28.5,59.3,26.6,0.494,29.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,PA,Pará,Norte,-3.697328641157707,-52.033613241700344,2435,262.73,137.0,28.2,0.816,87.4,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,PB,Paraíba,Nordeste,-6.754731049974457,-35.66028035591793,753,58.19,59.9,30.6,0.487,43.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,PR,Paraná,Sul,-24.381584139079838,-51.8707123216757,264,18.31,100.8,21.7,0.588,17.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,PE,Pernambuco,Nordeste,-8.131576598468541,-35.05619353311574,722,54.04,51.6,29.2,0.503,40.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,PI,Piauí,Nordeste,-7.765353845530312,-41.59491746064184,695,46.8,51.2,27.9,0.485,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,RJ,Rio de Janeiro,Sudeste,-22.823310170102605,-43.28523141287414,570,30.74,60.3,26.4,0.593,31.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,RN,Rio Grande do Norte,Nordeste,-6.620650352039107,-36.28969503164425,731,58.5,54.6,30.5,0.363,43.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,RS,Rio Grande do Sul,Sul,-30.330246935163874,-53.55577678125107,260,13.65,80.6,22.5,0.522,18.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,RO,Rondônia,Norte,-10.771179067911612,-63.68830196864869,1971,173.5,87.0,29.3,0.697,73.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,RR,Roraima,Norte,1.7849253143387855,-61.21481262745145,1683,127.46,120.9,30.0,0.598,63.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,SC,Santa Catarina,Sul,-26.73527338594969,-50.852924538312365,293,16.76,59.2,20.3,0.535,17.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,SP,São Paulo,Sudeste,-22.110983466910888,-48.78383536182322,410,26.86,62.2,25.0,0.544,26.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,SE,Sergipe,Nordeste,-10.744149793434822,-37.723701222378864,715,62.94,57.2,29.2,0.484,41.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,8,2025-08,TO,Tocantins,Norte,-10.186455803177488,-48.29012439247681,1710,143.57,132.0,27.4,0.611,61.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,AC,Acre,Norte,-8.96269317609797,-70.43927458746235,1516,145.6,74.5,27.9,0.705,61.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,AL,Alagoas,Nordeste,-9.479980360375425,-36.86423281108558,720,56.02,67.2,30.1,0.406,41.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,AP,Amapá,Norte,1.0544424105535075,-52.255989893840926,1702,162.49,107.9,29.0,0.624,66.6,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,AM,Amazonas,Norte,-3.4578501879366037,-65.78897647470332,1677,159.11,120.2,28.1,0.707,64.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,BA,Bahia,Nordeste,-12.925815368138084,-38.95257444243423,698,53.31,31.3,30.0,0.382,42.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,CE,Ceará,Nordeste,-5.339964671745898,-39.43574683659674,679,52.55,44.9,29.3,0.364,40.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,DF,Distrito Federal,Centro-Oeste,-15.659353896019649,-47.446338117464016,1424,116.07,54.1,29.2,0.494,58.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,ES,Espírito Santo,Sudeste,-19.529543491132877,-40.4791452179221,515,30.66,51.5,26.5,0.421,31.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,GO,Goiás,Centro-Oeste,-16.228426147281738,-49.517388654505126,1561,120.86,47.2,28.0,0.525,60.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,MA,Maranhão,Nordeste,-5.472479251677688,-45.941603135083646,819,73.6,59.8,30.5,0.404,46.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,MT,Mato Grosso,Centro-Oeste,-12.692954727081384,-55.90852622076737,1884,159.85,99.7,27.4,0.539,67.3,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,MS,Mato Grosso do Sul,Centro-Oeste,-20.512465744918195,-54.61546335249881,1478,104.5,65.1,27.9,0.516,56.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,MG,Minas Gerais,Sudeste,-17.751358624781105,-44.86657767380371,440,25.67,69.1,27.0,0.507,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,PA,Pará,Norte,-3.4574944599656243,-52.39494834728096,2432,218.72,58.0,28.3,0.745,85.0,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,PB,Paraíba,Nordeste,-7.371611246806955,-35.572427217452045,690,53.7,51.6,29.8,0.328,41.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,PR,Paraná,Sul,-24.647499845516897,-51.346100038416914,282,13.3,72.7,22.0,0.576,18.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,PE,Pernambuco,Nordeste,-8.031307814195774,-34.919730712019394,723,43.15,40.7,30.5,0.506,41.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,PI,Piauí,Nordeste,-7.144827423251552,-42.84270985407222,776,51.48,44.8,31.0,0.377,44.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,RJ,Rio de Janeiro,Sudeste,-22.17351308515617,-42.30668487399141,540,26.42,74.6,25.1,0.421,28.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,RN,Rio Grande do Norte,Nordeste,-5.477641900022428,-36.61079531344538,721,45.67,45.4,29.6,0.459,40.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,RS,Rio Grande do Sul,Sul,-30.2877354308939,-53.16389332130149,303,18.09,68.0,20.6,0.515,17.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,RO,Rondônia,Norte,-10.51937361140508,-63.07370367099099,2055,176.69,120.7,29.4,0.763,74.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,RR,Roraima,Norte,1.7196009379353159,-61.19729640844586,1708,175.99,161.6,27.8,0.66,65.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,SC,Santa Catarina,Sul,-27.261829533967543,-50.800134813266304,293,16.47,15.7,21.5,0.579,20.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,SP,São Paulo,Sudeste,-21.99032247707592,-48.993226905893884,402,21.23,73.2,25.0,0.619,25.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,SE,Sergipe,Nordeste,-10.826071108617985,-36.788345760195476,732,54.34,43.1,30.5,0.439,43.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,9,2025-09,TO,Tocantins,Norte,-10.121377252233655,-47.55465371133877,1792,191.62,91.0,29.1,0.696,71.9,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,AC,Acre,Norte,-8.64551586800287,-70.48294791133206,1118,144.27,72.2,29.1,0.684,56.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,AL,Alagoas,Nordeste,-8.9957849027791,-35.67678014292077,513,63.82,55.7,28.8,0.504,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,AP,Amapá,Norte,2.0832060281887337,-52.04111523950651,984,173.24,35.0,29.3,0.649,58.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,AM,Amazonas,Norte,-3.460039846585895,-65.82723413694967,1015,173.22,39.0,29.5,0.565,59.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,BA,Bahia,Nordeste,-12.953694094784444,-38.344579378954805,417,58.44,52.5,29.0,0.427,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,CE,Ceará,Nordeste,-4.9783356108750665,-39.522079201563095,428,58.56,4.7,29.1,0.402,37.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,DF,Distrito Federal,Centro-Oeste,-15.998291826329194,-47.61634120099425,802,101.17,74.3,28.2,0.527,45.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,ES,Espírito Santo,Sudeste,-18.91574361732049,-40.57752507145294,308,31.07,107.6,24.5,0.397,23.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,GO,Goiás,Centro-Oeste,-15.678221770839558,-50.35567946952742,913,106.05,63.6,29.5,0.603,49.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,MA,Maranhão,Nordeste,-5.497529642033244,-45.44780509930132,516,46.2,34.2,30.4,0.457,38.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,MT,Mato Grosso,Centro-Oeste,-12.313647795165867,-55.56528510113718,1185,156.16,87.4,27.0,0.575,55.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,MS,Mato Grosso do Sul,Centro-Oeste,-20.446562093089284,-54.378904931256194,980,149.65,67.2,28.6,0.518,54.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,MG,Minas Gerais,Sudeste,-17.763304483824857,-44.46295418950442,296,24.65,66.8,26.8,0.524,27.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,PA,Pará,Norte,-4.011508096209678,-52.413735092447666,1634,244.76,78.0,29.1,0.624,75.5,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,PB,Paraíba,Nordeste,-7.598154678757211,-35.600716602678496,503,47.58,63.3,30.1,0.39,37.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,PR,Paraná,Sul,-24.99696668887391,-51.32821864132907,169,17.87,67.6,20.2,0.508,14.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,PE,Pernambuco,Nordeste,-7.979145294679754,-35.04206948057944,458,65.25,17.0,30.7,0.417,41.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,PI,Piauí,Nordeste,-7.632454534231527,-42.29783683008432,541,52.52,29.7,30.8,0.423,40.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,RJ,Rio de Janeiro,Sudeste,-22.77507765150643,-42.93259296498715,292,33.47,50.2,25.5,0.503,26.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,RN,Rio Grande do Norte,Nordeste,-5.335195814960206,-36.66012340222796,551,60.37,45.9,29.8,0.413,39.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,RS,Rio Grande do Sul,Sul,-29.59962525411052,-53.630436454383194,180,19.92,57.0,23.1,0.445,19.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,RO,Rondônia,Norte,-10.878058838026108,-63.004772934934486,1271,163.24,96.8,28.0,0.646,58.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,RR,Roraima,Norte,1.7326796378328637,-60.750327111779946,1119,174.47,72.5,28.1,0.778,58.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,SC,Santa Catarina,Sul,-27.585885068732537,-50.96957215698278,172,17.65,104.3,22.9,0.523,17.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,SP,São Paulo,Sudeste,-22.056541635707326,-48.68092150039833,275,28.87,62.6,26.1,0.589,26.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,SE,Sergipe,Nordeste,-10.48476442853478,-37.47114130521892,421,38.7,52.9,29.6,0.401,34.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,10,2025-10,TO,Tocantins,Norte,-9.275712160714694,-48.427093747167476,1266,178.71,85.7,29.6,0.667,62.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,AC,Acre,Norte,-9.412725924319638,-70.70147085925593,468,83.64,211.6,28.3,0.715,34.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,AL,Alagoas,Nordeste,-10.109981126385016,-36.836220891833925,300,27.85,82.8,29.5,0.441,30.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,AP,Amapá,Norte,1.517443375440183,-51.1353073055196,544,72.88,204.4,28.3,0.729,34.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,AM,Amazonas,Norte,-3.6375655000325913,-64.9741834708585,606,103.72,191.8,27.3,0.698,37.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,BA,Bahia,Nordeste,-12.867757215815827,-38.060566472118154,338,21.71,80.2,28.7,0.502,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,CE,Ceará,Nordeste,-6.252671318892816,-39.330087207823276,155,14.98,78.9,29.6,0.394,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,DF,Distrito Federal,Centro-Oeste,-16.04921034666405,-47.687077628358566,518,47.57,106.0,26.6,0.616,31.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,ES,Espírito Santo,Sudeste,-18.910754677036483,-40.99076787008102,90,13.94,92.1,24.5,0.52,18.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,GO,Goiás,Centro-Oeste,-16.61135197739683,-50.69718467150956,512,69.83,172.0,27.0,0.628,32.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,MA,Maranhão,Nordeste,-4.765913755809652,-45.29310303707496,345,34.39,105.1,27.7,0.509,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,MT,Mato Grosso,Centro-Oeste,-12.463430860265944,-55.96706200729994,695,83.11,92.4,28.4,0.576,41.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,MS,Mato Grosso do Sul,Centro-Oeste,-21.154664220535253,-54.2277763400939,398,79.79,120.8,28.5,0.606,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,MG,Minas Gerais,Sudeste,-17.33132190024652,-44.20745473951994,139,17.72,116.1,23.5,0.559,17.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,PA,Pará,Norte,-3.7081531909736407,-52.11759480425407,837,149.79,219.1,28.1,0.67,46.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,PB,Paraíba,Nordeste,-7.160377982508394,-35.28416978937986,227,38.45,85.2,28.0,0.535,28.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,PR,Paraná,Sul,-25.282435309033037,-51.22470650532321,90,9.42,154.9,21.2,0.47,11.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,PE,Pernambuco,Nordeste,-8.315448251545536,-35.27945315320337,259,26.45,65.5,27.9,0.369,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,PI,Piauí,Nordeste,-7.304216634844817,-42.38941445364472,221,29.26,92.3,30.4,0.397,30.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,RJ,Rio de Janeiro,Sudeste,-22.038037818579042,-42.481987069368294,151,17.68,106.0,24.9,0.633,20.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,RN,Rio Grande do Norte,Nordeste,-6.1792812788618425,-36.545806292318076,245,20.54,83.4,29.7,0.396,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,RS,Rio Grande do Sul,Sul,-29.923800229124442,-53.957579423780835,79,7.97,131.4,19.9,0.526,10.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,RO,Rondônia,Norte,-10.814474420869537,-63.95099760150088,539,95.65,238.9,27.8,0.704,35.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,RR,Roraima,Norte,2.384768147638749,-61.27592721704166,643,98.41,195.6,28.8,0.668,39.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,SC,Santa Catarina,Sul,-27.71688173370131,-50.587293987774636,89,9.5,139.5,21.9,0.521,13.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,SP,São Paulo,Sudeste,-22.59379229846895,-48.525843345676265,125,17.08,150.9,24.4,0.587,17.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,SE,Sergipe,Nordeste,-11.29219110336781,-37.56107267228489,273,32.59,76.6,27.4,0.508,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,11,2025-11,TO,Tocantins,Norte,-9.450440317051997,-48.27657974589055,718,99.35,285.1,28.8,0.694,38.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,AC,Acre,Norte,-8.857175145628563,-71.13551286545905,374,64.25,305.9,26.3,0.733,25.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,AL,Alagoas,Nordeste,-9.33192287383316,-36.67240875059811,283,34.09,137.9,28.5,0.513,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,AP,Amapá,Norte,1.2260291731051154,-51.758657545330955,510,96.39,372.7,27.5,0.845,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,AM,Amazonas,Norte,-3.4226315782376986,-64.75194341857188,573,102.68,261.0,27.5,0.67,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,BA,Bahia,Nordeste,-12.905005228353172,-38.448333562124056,262,11.51,166.2,29.0,0.437,25.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,CE,Ceará,Nordeste,-5.701434951408879,-39.478957235424616,234,30.9,124.9,28.4,0.442,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,DF,Distrito Federal,Centro-Oeste,-15.536117647449084,-48.335131138944675,547,68.05,218.8,27.6,0.581,32.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,ES,Espírito Santo,Sudeste,-18.81482454717587,-40.6477489738442,148,13.57,201.6,25.5,0.577,17.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,GO,Goiás,Centro-Oeste,-15.790682018503654,-49.553340791483066,537,61.11,219.4,27.3,0.589,31.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,MA,Maranhão,Nordeste,-5.2068831253108785,-45.348276616819646,277,34.05,117.8,26.8,0.491,26.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,MT,Mato Grosso,Centro-Oeste,-12.200608736689038,-55.088945624710554,507,78.52,148.3,28.4,0.55,36.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,MS,Mato Grosso do Sul,Centro-Oeste,-20.678989656782424,-55.16340544506297,422,47.03,207.9,26.7,0.616,27.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,MG,Minas Gerais,Sudeste,-17.689295203178645,-44.475390652476634,91,16.06,167.4,24.3,0.588,16.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,PA,Pará,Norte,-3.55191942705383,-53.15786344587586,808,138.91,275.7,28.1,0.76,43.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,PB,Paraíba,Nordeste,-7.233237918128825,-35.724150374408225,230,24.27,135.9,29.1,0.562,27.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,PR,Paraná,Sul,-25.35659492417223,-52.09302928717062,114,10.13,252.9,21.2,0.516,9.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,PE,Pernambuco,Nordeste,-8.483005716428789,-35.47474553586035,294,37.0,163.2,29.4,0.544,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,PI,Piauí,Nordeste,-7.260664099051254,-42.27675504531406,303,32.25,136.0,29.1,0.498,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,RJ,Rio de Janeiro,Sudeste,-22.738073274100742,-42.29113795669644,191,19.94,189.8,24.4,0.592,17.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,RN,Rio Grande do Norte,Nordeste,-6.368164585357166,-36.442755129143535,211,31.44,121.1,29.2,0.478,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,RS,Rio Grande do Sul,Sul,-30.376266280999577,-53.66052352263538,86,11.28,220.5,21.3,0.527,10.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,RO,Rondônia,Norte,-11.247966290382301,-63.675572459665375,786,139.3,296.6,28.8,0.611,43.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,RR,Roraima,Norte,2.2316654401425295,-61.23703405238961,457,61.2,342.9,27.8,0.751,27.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,SC,Santa Catarina,Sul,-27.777458704566847,-51.01227125653154,106,9.4,190.1,21.8,0.548,11.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,SP,São Paulo,Sudeste,-22.36069688053206,-48.41398344833041,116,12.44,186.3,25.0,0.501,16.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,SE,Sergipe,Nordeste,-10.302648876928302,-37.468587380593924,287,42.46,152.7,29.7,0.404,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2025,12,2025-12,TO,Tocantins,Norte,-9.200139380242584,-48.48315563972658,567,98.9,363.1,28.4,0.682,33.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,AC,Acre,Norte,-8.089181724003073,-71.18738012425307,586,80.95,318.9,28.7,0.673,33.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,AL,Alagoas,Nordeste,-9.426307470135335,-36.86087431711019,253,33.64,143.4,28.8,0.477,27.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,AP,Amapá,Norte,1.3048369179477537,-52.121960481491314,767,112.2,360.4,27.3,0.726,36.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,AM,Amazonas,Norte,-3.783716430507222,-65.02324418197985,713,93.85,352.1,27.2,0.825,33.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,BA,Bahia,Nordeste,-12.955047757261985,-38.71874399278911,282,24.08,147.6,27.9,0.56,25.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,CE,Ceará,Nordeste,-5.611936739469489,-38.89280963222036,266,36.34,125.2,28.3,0.468,28.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,DF,Distrito Federal,Centro-Oeste,-15.555599027241238,-47.92589146728021,478,75.57,204.6,26.7,0.61,31.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,ES,Espírito Santo,Sudeste,-19.40475566187698,-40.271315670766654,220,21.52,198.2,24.5,0.491,18.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,GO,Goiás,Centro-Oeste,-15.528054156344442,-49.712376974012194,583,38.55,199.6,27.6,0.595,30.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,MA,Maranhão,Nordeste,-5.802249557700057,-45.52878662713983,383,35.05,149.0,30.2,0.552,32.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,MT,Mato Grosso,Centro-Oeste,-13.346974566254648,-54.91531924796934,681,93.94,215.7,26.8,0.614,36.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,MS,Mato Grosso do Sul,Centro-Oeste,-20.515813619814068,-54.577036565124196,483,65.67,192.6,28.4,0.454,33.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,MG,Minas Gerais,Sudeste,-17.658468261612573,-44.61351617967213,152,22.2,160.7,25.5,0.57,19.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,PA,Pará,Norte,-3.654766071153179,-52.18678252245869,816,157.51,343.4,26.9,0.7,42.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,PB,Paraíba,Nordeste,-8.051314073744448,-35.265106698930786,249,13.41,142.5,27.9,0.369,24.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,PR,Paraná,Sul,-25.377457415258448,-51.56209271838389,102,9.63,256.0,21.6,0.669,9.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,PE,Pernambuco,Nordeste,-8.06180750160203,-34.82379595340139,207,29.95,130.5,29.4,0.483,28.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,PI,Piauí,Nordeste,-7.191313731047212,-42.82912631363083,376,29.42,119.7,29.1,0.436,30.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,RJ,Rio de Janeiro,Sudeste,-21.667126828831766,-42.95965944423161,168,16.26,194.1,24.8,0.515,17.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,RN,Rio Grande do Norte,Nordeste,-5.522026026708099,-36.926927854171645,281,35.38,108.9,29.3,0.422,30.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,RS,Rio Grande do Sul,Sul,-30.371746851717198,-52.98513785821402,112,12.27,242.5,21.3,0.567,9.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,RO,Rondônia,Norte,-11.335261491759418,-63.509018443811186,669,94.04,352.5,27.5,0.678,33.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,RR,Roraima,Norte,1.9206315132670981,-61.151444885879684,618,100.92,363.4,28.5,0.72,34.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,SC,Santa Catarina,Sul,-27.216805614784768,-50.74770751672616,121,10.33,208.4,20.3,0.501,9.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,SP,São Paulo,Sudeste,-22.203560013246342,-49.00292276763777,168,14.24,208.4,24.5,0.603,16.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,SE,Sergipe,Nordeste,-9.734069802495346,-37.03551017418134,306,33.88,139.9,29.0,0.478,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,1,2026-01,TO,Tocantins,Norte,-9.566247513843072,-48.288321068181936,731,103.25,365.5,28.5,0.731,36.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,AC,Acre,Norte,-9.186137196837237,-70.56745805394483,244,90.67,308.7,29.4,0.731,30.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,AL,Alagoas,Nordeste,-9.558097166320149,-37.257757628399325,232,34.28,138.9,29.7,0.437,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,AP,Amapá,Norte,1.9715186879080084,-51.869782989964705,697,106.14,346.1,28.1,0.753,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,AM,Amazonas,Norte,-3.5596982884880504,-65.18257078525924,691,83.48,294.2,28.2,0.791,35.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,BA,Bahia,Nordeste,-13.192897804345312,-38.25733378009665,228,24.3,138.9,27.7,0.55,25.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,CE,Ceará,Nordeste,-5.112658133640673,-39.944069664657036,222,35.48,144.8,29.2,0.425,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,DF,Distrito Federal,Centro-Oeste,-15.604044300739032,-47.85321656680569,505,78.1,218.3,27.5,0.556,32.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,ES,Espírito Santo,Sudeste,-20.301846334618602,-40.24232064957919,115,20.67,178.6,25.9,0.49,19.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,GO,Goiás,Centro-Oeste,-15.724164358268325,-50.08773093957893,561,44.69,177.1,29.7,0.593,34.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,MA,Maranhão,Nordeste,-5.327506104924027,-45.49254093293883,230,35.33,130.2,28.6,0.474,27.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,MT,Mato Grosso,Centro-Oeste,-12.462542904752626,-55.440088377775915,603,93.9,154.6,25.9,0.651,35.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,MS,Mato Grosso do Sul,Centro-Oeste,-20.281684381638165,-54.04044312249877,408,55.93,193.7,26.2,0.569,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,MG,Minas Gerais,Sudeste,-17.992429034152213,-44.4667133463839,153,18.79,139.3,25.4,0.506,20.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,PA,Pará,Norte,-3.8543488626057236,-52.775985586572936,1023,120.23,351.1,27.9,0.721,42.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,PB,Paraíba,Nordeste,-6.73677198438342,-35.91771816263973,279,30.97,138.1,29.0,0.524,28.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,PR,Paraná,Sul,-24.857457263714707,-51.713973639676105,114,7.73,235.5,21.6,0.475,10.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,PE,Pernambuco,Nordeste,-8.040043588795553,-35.119577005103544,245,39.68,124.1,28.3,0.484,28.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,PI,Piauí,Nordeste,-7.542223666299702,-43.648685969730934,332,34.63,100.4,28.5,0.449,30.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,RJ,Rio de Janeiro,Sudeste,-21.94523867439406,-42.32791541623493,260,19.79,182.2,25.8,0.679,21.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,RN,Rio Grande do Norte,Nordeste,-6.2826945875200435,-36.61655500773976,285,30.49,126.9,28.2,0.442,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,RS,Rio Grande do Sul,Sul,-29.093098870436826,-53.02395943493689,73,10.46,219.5,21.2,0.551,9.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,RO,Rondônia,Norte,-10.678724158234262,-63.57848308227435,614,118.06,304.1,27.3,0.656,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,RR,Roraima,Norte,2.211358975824805,-61.49596236128639,724,115.12,379.4,27.4,0.756,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,SC,Santa Catarina,Sul,-27.876749563282768,-51.149307421072244,88,13.27,226.3,21.6,0.535,10.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,SP,São Paulo,Sudeste,-21.955181063103094,-48.578673317902734,147,10.95,178.9,23.5,0.488,15.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,SE,Sergipe,Nordeste,-10.245114008029487,-37.623786107418695,262,25.09,118.3,28.6,0.515,27.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,2,2026-02,TO,Tocantins,Norte,-9.170509600001981,-48.20470899071199,542,106.2,295.9,27.7,0.803,34.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,AC,Acre,Norte,-8.317539148668628,-69.96769350874978,436,90.69,367.6,27.8,0.804,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,AL,Alagoas,Nordeste,-9.726989992784752,-36.69650576617919,293,34.98,156.4,29.3,0.452,29.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,AP,Amapá,Norte,1.8028309765461057,-51.93091761554067,497,93.61,368.9,26.3,0.814,28.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,AM,Amazonas,Norte,-3.2644581552875382,-65.17196974877513,732,104.09,374.0,28.9,0.653,36.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,BA,Bahia,Nordeste,-13.427113712418581,-38.64498542084225,250,23.11,161.6,29.7,0.439,27.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,CE,Ceará,Nordeste,-5.085600609786347,-40.016254555573845,299,32.84,153.9,29.5,0.533,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,DF,Distrito Federal,Centro-Oeste,-16.190434146989645,-47.90317042241614,509,78.49,198.6,27.9,0.592,34.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,ES,Espírito Santo,Sudeste,-19.293059515155814,-39.83153555920584,193,15.61,174.2,24.1,0.612,17.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,GO,Goiás,Centro-Oeste,-16.46084218871453,-49.37753563038847,666,65.23,176.4,25.8,0.529,32.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,MA,Maranhão,Nordeste,-5.319629060666095,-45.49152184753996,330,38.78,99.7,27.9,0.529,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,MT,Mato Grosso,Centro-Oeste,-11.802761627654103,-56.15477469254666,758,108.57,194.6,27.6,0.621,41.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,MS,Mato Grosso do Sul,Centro-Oeste,-20.261006297187077,-53.45048142963466,584,63.5,212.9,27.0,0.607,32.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,MG,Minas Gerais,Sudeste,-18.215531567095503,-44.12350982136239,190,13.14,170.3,24.5,0.451,17.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,PA,Pará,Norte,-3.2305873673256387,-52.223258265272946,762,156.61,345.8,27.5,0.722,41.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,PB,Paraíba,Nordeste,-6.345237731312844,-35.49563625028021,280,29.9,135.5,28.5,0.364,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,PR,Paraná,Sul,-24.093019725681344,-51.98207919944784,107,9.97,201.6,21.0,0.492,10.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,PE,Pernambuco,Nordeste,-7.840981573734931,-34.81414978062508,233,28.65,154.4,28.9,0.412,26.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,PI,Piauí,Nordeste,-7.141640252516097,-42.59589113358438,304,35.77,171.7,30.6,0.442,30.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,RJ,Rio de Janeiro,Sudeste,-21.87512182485902,-43.38607022285571,199,11.96,175.6,24.2,0.596,17.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,RN,Rio Grande do Norte,Nordeste,-5.69041891881658,-36.68496024232391,279,38.27,131.4,29.5,0.499,30.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,RS,Rio Grande do Sul,Sul,-30.318361514812825,-53.60681609591826,81,7.86,238.6,21.1,0.572,8.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,RO,Rondônia,Norte,-10.819011447063529,-62.77734759276017,845,107.31,276.3,28.7,0.719,41.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,RR,Roraima,Norte,1.445619193155565,-61.2597042174095,625,101.79,282.4,27.9,0.764,36.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,SC,Santa Catarina,Sul,-27.79775633045791,-50.90242640147358,102,10.16,247.0,21.4,0.661,9.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,SP,São Paulo,Sudeste,-22.013242619104183,-48.76041853346464,154,10.93,199.0,26.8,0.549,19.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,SE,Sergipe,Nordeste,-10.610288392873134,-37.571071765166515,247,20.14,123.3,27.8,0.574,25.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,3,2026-03,TO,Tocantins,Norte,-9.284410234190926,-48.17308620011944,748,79.91,298.1,28.2,0.787,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,AC,Acre,Norte,-9.145791030621213,-70.52162110998471,572,94.26,218.8,27.3,0.733,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,AL,Alagoas,Nordeste,-9.38822443902674,-36.19432261884662,258,47.0,86.0,27.8,0.473,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,AP,Amapá,Norte,1.319832830071152,-51.79437170865504,567,66.38,242.2,27.0,0.706,31.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,AM,Amazonas,Norte,-3.4357604888522273,-64.94739797867209,746,91.09,200.7,28.1,0.738,39.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,BA,Bahia,Nordeste,-12.792172358199437,-38.25487058190034,284,30.02,93.7,27.6,0.483,27.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,CE,Ceará,Nordeste,-5.342611037552061,-39.212213190230536,248,27.3,77.7,29.3,0.537,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,DF,Distrito Federal,Centro-Oeste,-15.033461100323327,-48.158278625049064,536,63.37,124.0,28.1,0.628,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,ES,Espírito Santo,Sudeste,-18.16863925572897,-40.404451035489124,200,16.06,97.5,24.9,0.558,21.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,GO,Goiás,Centro-Oeste,-15.701889865969177,-49.51923221270025,441,69.74,80.8,27.4,0.611,34.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,MA,Maranhão,Nordeste,-5.8657549420088095,-45.58511941520015,302,35.45,74.7,28.0,0.497,29.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,MT,Mato Grosso,Centro-Oeste,-12.683710409872525,-55.41450577141479,626,94.71,170.7,26.5,0.508,36.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,MS,Mato Grosso do Sul,Centro-Oeste,-21.1942670696114,-54.66912880366101,544,59.26,124.2,27.8,0.667,34.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,MG,Minas Gerais,Sudeste,-17.9053922661052,-44.586949676080664,172,12.9,151.6,24.4,0.548,17.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,PA,Pará,Norte,-3.4660147266740475,-52.59577121360807,704,128.66,250.2,27.8,0.683,41.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,PB,Paraíba,Nordeste,-6.654056011764079,-35.72708816964575,257,32.28,98.7,30.8,0.525,31.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,PR,Paraná,Sul,-24.750238839398303,-51.42386231174367,84,10.2,145.0,20.2,0.57,10.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,PE,Pernambuco,Nordeste,-7.655328736285216,-35.06529237238325,302,33.15,78.8,28.5,0.414,30.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,PI,Piauí,Nordeste,-7.564457107299879,-42.5199254619895,269,25.64,132.5,28.0,0.456,26.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,RJ,Rio de Janeiro,Sudeste,-22.14225866962014,-41.93612088547296,213,24.28,126.1,24.1,0.536,20.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,RN,Rio Grande do Norte,Nordeste,-6.104851420544214,-36.327194527209535,217,38.77,89.5,29.6,0.474,30.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,RS,Rio Grande do Sul,Sul,-29.88321935615121,-53.35163868114461,111,12.0,141.9,20.6,0.494,11.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,RO,Rondônia,Norte,-11.226840624882223,-63.48436765416078,642,103.47,193.4,26.9,0.685,37.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,RR,Roraima,Norte,2.0853474888287633,-61.183887218562546,552,65.54,288.0,29.1,0.687,32.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,SC,Santa Catarina,Sul,-27.196552204239925,-50.498234551557154,120,8.46,170.2,20.7,0.507,10.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,SP,São Paulo,Sudeste,-22.70467134293094,-49.2319694214945,228,10.47,130.1,24.6,0.593,19.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,SE,Sergipe,Nordeste,-10.360147860564126,-36.8834243261187,245,31.85,76.7,29.4,0.536,30.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,4,2026-04,TO,Tocantins,Norte,-8.909193024205713,-48.100159196244356,700,78.11,262.9,27.6,0.78,34.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,AC,Acre,Norte,-8.504411454342737,-70.30628699827189,413,69.32,261.4,28.0,0.734,29.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,AL,Alagoas,Nordeste,-9.660055000216227,-36.4012606904524,292,30.07,81.8,29.6,0.51,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,AP,Amapá,Norte,1.8418034974176676,-52.05178331336068,614,80.21,182.3,27.3,0.715,35.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,AM,Amazonas,Norte,-3.5377968829317368,-64.9108992195875,696,91.6,201.2,26.9,0.718,37.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,BA,Bahia,Nordeste,-12.9632138236848,-38.69121510652778,256,20.21,103.6,29.1,0.491,28.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,CE,Ceará,Nordeste,-5.110340288007003,-39.112341147925505,289,34.29,59.4,28.5,0.466,30.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,DF,Distrito Federal,Centro-Oeste,-15.56021922300421,-48.22884242337752,461,58.61,117.0,26.9,0.591,32.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,ES,Espírito Santo,Sudeste,-19.28618080666344,-41.110435215707824,197,11.93,103.9,24.6,0.642,19.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,GO,Goiás,Centro-Oeste,-15.573209140873017,-50.048856927257994,367,66.69,143.1,27.8,0.619,31.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,MA,Maranhão,Nordeste,-5.43619142604322,-45.40006447772072,365,26.32,72.5,27.5,0.465,29.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,MT,Mato Grosso,Centro-Oeste,-12.746269125514301,-55.5911101416653,715,75.86,124.5,26.3,0.685,37.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,MS,Mato Grosso do Sul,Centro-Oeste,-20.358928929626842,-54.28111358615876,660,49.11,102.8,26.6,0.606,34.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,MG,Minas Gerais,Sudeste,-18.31692024488886,-44.69806938478279,242,8.21,128.2,24.5,0.518,19.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,PA,Pará,Norte,-4.255746795965824,-53.24228870626814,1060,152.71,212.0,29.2,0.647,52.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,PB,Paraíba,Nordeste,-6.778895840085092,-35.46613036861635,248,32.36,88.3,29.0,0.402,29.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,PR,Paraná,Sul,-24.702972285477266,-51.51811723781043,112,6.33,150.2,20.1,0.558,10.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,PE,Pernambuco,Nordeste,-7.888507519510635,-35.25428609048362,241,31.4,62.8,29.8,0.469,31.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,PI,Piauí,Nordeste,-7.843858339184251,-43.42158715496206,256,26.65,100.3,28.3,0.515,27.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,RJ,Rio de Janeiro,Sudeste,-22.28187655112356,-42.72215859816556,167,13.77,116.3,23.9,0.601,18.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,RN,Rio Grande do Norte,Nordeste,-6.050117414962313,-36.80602428632679,309,37.3,86.4,28.3,0.382,30.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,RS,Rio Grande do Sul,Sul,-29.75560439488109,-53.38036117511576,102,9.4,159.8,20.6,0.577,10.8,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,RO,Rondônia,Norte,-10.56551695643949,-63.4176608949523,734,102.27,187.0,27.4,0.7,39.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,RR,Roraima,Norte,2.028810233989946,-60.73339276734592,491,129.77,223.3,27.0,0.706,37.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,SC,Santa Catarina,Sul,-27.812708236580818,-51.02121139937811,82,12.01,178.0,20.6,0.565,10.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,SP,São Paulo,Sudeste,-22.197435672746685,-48.68726186451097,150,17.02,138.2,24.3,0.442,18.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,SE,Sergipe,Nordeste,-10.70067894875108,-37.6250692359836,291,29.35,88.6,30.1,0.501,31.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,5,2026-05,TO,Tocantins,Norte,-9.075355824895313,-47.574056960839364,641,132.1,204.1,28.1,0.703,42.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,AC,Acre,Norte,-8.723041754401454,-70.40008028226875,1089,161.94,115.5,26.2,0.72,52.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,AL,Alagoas,Nordeste,-8.84106888726157,-36.62919815334474,485,55.65,40.4,29.7,0.408,38.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,AP,Amapá,Norte,1.6560998897770012,-51.58337743873524,1031,175.76,89.4,26.3,0.767,54.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,AM,Amazonas,Norte,-4.356119260687785,-65.17948710272331,1269,166.3,95.7,28.8,0.621,60.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,BA,Bahia,Nordeste,-12.541564014169653,-39.04163942328466,449,51.89,58.2,29.4,0.443,36.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,CE,Ceará,Nordeste,-5.4315395048803525,-39.26630318777415,540,61.88,27.5,27.7,0.388,37.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,DF,Distrito Federal,Centro-Oeste,-15.89273785887492,-47.898501924545364,921,109.25,55.5,28.4,0.56,48.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,ES,Espírito Santo,Sudeste,-18.314684825723003,-40.70947382142951,380,30.51,89.8,25.1,0.49,26.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,GO,Goiás,Centro-Oeste,-15.551617936398898,-49.929167163728586,963,106.85,91.8,28.9,0.651,49.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,MA,Maranhão,Nordeste,-4.955180088854561,-45.780467580865995,584,57.0,78.6,29.3,0.402,38.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,MT,Mato Grosso,Centro-Oeste,-12.613548269565488,-55.05289755034362,1349,160.03,84.5,27.4,0.479,59.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,MS,Mato Grosso do Sul,Centro-Oeste,-20.248556705963352,-54.5289779532083,971,130.07,45.4,27.5,0.525,51.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,MG,Minas Gerais,Sudeste,-18.100975138733418,-44.56658164070554,328,33.67,76.8,25.1,0.444,25.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,PA,Pará,Norte,-3.7223171918265443,-52.95186196589962,1612,245.95,76.9,26.5,0.642,71.6,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,PB,Paraíba,Nordeste,-6.651371561954743,-35.80338765566372,518,69.72,62.8,30.2,0.451,40.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,PR,Paraná,Sul,-24.978883097239034,-51.813851739791836,176,13.22,107.2,22.3,0.499,16.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,PE,Pernambuco,Nordeste,-8.240311962811658,-34.909352099414,535,64.95,19.7,29.2,0.414,40.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,PI,Piauí,Nordeste,-7.6327957617919235,-43.174833102382294,509,57.38,43.5,29.7,0.452,38.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,RJ,Rio de Janeiro,Sudeste,-21.886487875776915,-42.627394581805085,330,36.32,63.2,25.4,0.596,27.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,RN,Rio Grande do Norte,Nordeste,-5.8638668294411405,-36.70213477080288,495,42.29,44.2,28.6,0.45,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,RS,Rio Grande do Sul,Sul,-30.05526612424906,-53.16663264506652,157,16.79,89.1,22.5,0.524,17.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,RO,Rondônia,Norte,-10.725541865106496,-63.61390950909651,1287,217.21,86.0,28.8,0.687,66.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,RR,Roraima,Norte,2.265242174198536,-61.525841199851314,1231,217.63,75.8,27.8,0.692,64.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,SC,Santa Catarina,Sul,-26.901136149665437,-50.44327125353975,140,21.34,96.3,19.7,0.496,13.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,SP,São Paulo,Sudeste,-22.49654484227329,-49.072029879209474,308,26.56,64.2,24.8,0.561,24.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,SE,Sergipe,Nordeste,-10.892844544695384,-37.44742306150175,563,57.74,68.4,28.4,0.426,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,6,2026-06,TO,Tocantins,Norte,-10.065591955669522,-47.793139989074795,1069,177.88,59.5,28.7,0.718,59.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,AC,Acre,Norte,-8.762962736595815,-70.48713220457883,1296,161.24,89.8,30.4,0.606,62.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,AL,Alagoas,Nordeste,-9.922424576330801,-36.763261138075364,578,60.23,39.1,28.1,0.41,38.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,AP,Amapá,Norte,1.3511093029293604,-51.74606995191132,1103,149.92,161.8,27.7,0.609,52.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,AM,Amazonas,Norte,-3.609964996538261,-65.36080871961107,1077,198.72,74.3,29.5,0.708,62.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,BA,Bahia,Nordeste,-13.171350625932934,-38.63012207439506,451,54.83,46.4,28.7,0.432,36.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,CE,Ceará,Nordeste,-5.169544231862665,-39.89265025019132,424,64.01,51.5,28.3,0.533,35.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,DF,Distrito Federal,Centro-Oeste,-15.921615401577384,-47.66542049192395,1046,125.26,78.8,27.2,0.584,50.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,ES,Espírito Santo,Sudeste,-19.34678646845749,-40.76518214756103,285,31.62,98.3,24.3,0.466,23.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,GO,Goiás,Centro-Oeste,-15.964935695202366,-49.50200548495723,806,119.64,72.8,27.5,0.551,46.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,MA,Maranhão,Nordeste,-5.639850308709212,-45.40537317453989,592,63.76,42.5,29.4,0.507,40.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,MT,Mato Grosso,Centro-Oeste,-12.51163875723771,-55.554356159465776,1343,149.57,70.1,26.3,0.462,56.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,MS,Mato Grosso do Sul,Centro-Oeste,-20.02315967469951,-55.01458962070099,990,119.95,47.0,27.5,0.491,50.1,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,MG,Minas Gerais,Sudeste,-17.801379459231956,-44.36969929291286,301,26.17,74.3,24.6,0.47,23.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,PA,Pará,Norte,-3.5707478646411195,-52.50796795843189,1699,234.47,60.7,28.2,0.661,74.6,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,PB,Paraíba,Nordeste,-7.352632084576869,-35.442196534223925,527,48.02,76.3,28.8,0.467,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,PR,Paraná,Sul,-25.3213891089271,-51.78957210571448,165,19.54,67.8,21.1,0.567,16.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,PE,Pernambuco,Nordeste,-7.600214041835295,-35.68152758343784,538,70.94,44.7,29.4,0.423,40.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,PI,Piauí,Nordeste,-7.8096929282097705,-42.76716793151391,522,48.0,7.7,29.1,0.437,38.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,RJ,Rio de Janeiro,Sudeste,-22.333381786269467,-42.8036814689554,433,32.24,73.1,24.4,0.515,26.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,RN,Rio Grande do Norte,Nordeste,-4.86394035245822,-36.6707315833239,599,65.27,49.0,27.1,0.409,37.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,RS,Rio Grande do Sul,Sul,-29.930542876986866,-53.78516460098824,204,21.5,82.5,20.4,0.395,15.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,RO,Rondônia,Norte,-11.220187765573344,-62.92108116793353,1386,186.62,104.0,28.1,0.694,63.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,RR,Roraima,Norte,2.466746341289778,-61.41275709285755,1100,146.51,110.0,28.1,0.688,53.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,SC,Santa Catarina,Sul,-28.116636142712913,-50.44445573173072,184,16.46,97.9,21.2,0.506,15.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,SP,São Paulo,Sudeste,-22.933381653945233,-48.53765106648303,243,25.1,69.9,23.9,0.417,22.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,SE,Sergipe,Nordeste,-10.484902870701529,-37.61457116857486,493,76.05,31.3,28.2,0.398,38.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,7,2026-07,TO,Tocantins,Norte,-9.641324156816271,-48.36534310933762,1280,168.59,61.6,26.7,0.557,58.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,AC,Acre,Norte,-8.968346787819268,-70.75993748787097,1554,183.9,160.8,28.7,0.58,64.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,AL,Alagoas,Nordeste,-9.497087121981043,-36.6538709494333,773,53.72,36.7,29.5,0.394,42.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,AP,Amapá,Norte,1.1239071529549811,-51.65754798523492,1706,202.24,76.9,27.7,0.7,70.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,AM,Amazonas,Norte,-2.8847069335658655,-65.35808296622427,1700,218.79,139.7,27.8,0.598,70.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,BA,Bahia,Nordeste,-13.449677449864566,-39.042100377284214,669,37.1,41.4,29.6,0.468,39.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,CE,Ceará,Nordeste,-4.817868131323874,-39.554577126531164,823,64.22,22.3,30.7,0.431,46.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,DF,Distrito Federal,Centro-Oeste,-15.891646726242843,-48.87482985795397,1296,118.24,94.3,27.7,0.538,53.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,ES,Espírito Santo,Sudeste,-19.047880357150174,-40.42222349503234,579,29.98,73.0,25.7,0.568,30.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,GO,Goiás,Centro-Oeste,-15.541700718315177,-49.803545160068055,1464,132.76,26.2,28.9,0.499,61.8,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,MA,Maranhão,Nordeste,-5.361670463924055,-45.02665353314301,960,67.8,19.5,29.1,0.466,47.0,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,MT,Mato Grosso,Centro-Oeste,-12.054295340031956,-55.26538864226786,2071,149.9,51.2,28.5,0.432,72.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,MS,Mato Grosso do Sul,Centro-Oeste,-20.24000937178368,-54.53961151935945,1613,100.01,98.5,30.2,0.486,60.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,MG,Minas Gerais,Sudeste,-18.68336719237622,-44.90316465125738,431,31.57,79.8,25.3,0.563,27.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,PA,Pará,Norte,-3.4896513251730945,-52.52309775237329,2567,253.51,86.9,29.6,0.708,92.0,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,PB,Paraíba,Nordeste,-7.047789218518707,-36.03142881134906,830,55.27,78.9,29.1,0.545,41.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,PR,Paraná,Sul,-25.097284295684485,-51.20850031781576,311,18.9,98.7,23.0,0.548,20.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,PE,Pernambuco,Nordeste,-7.701341626987514,-34.851919428238816,802,62.24,13.2,30.2,0.394,45.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,PI,Piauí,Nordeste,-7.572480271308124,-42.17335875099922,813,61.01,31.3,31.1,0.539,46.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,RJ,Rio de Janeiro,Sudeste,-22.06178113337103,-42.5527636812743,513,30.35,63.3,26.1,0.477,30.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,RN,Rio Grande do Norte,Nordeste,-6.2360913277239325,-36.42621735225386,757,61.21,60.3,29.9,0.492,43.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,RS,Rio Grande do Sul,Sul,-30.244952608748918,-53.206995929784014,270,16.44,60.7,21.2,0.499,18.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,RO,Rondônia,Norte,-10.673712222570751,-63.27013635355903,2089,180.27,157.4,28.3,0.676,72.4,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,RR,Roraima,Norte,1.9384309206824728,-60.99262610193055,1908,187.25,81.4,30.7,0.69,75.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,SC,Santa Catarina,Sul,-27.409197520795637,-50.57496942254664,293,19.44,140.7,21.8,0.512,17.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,SP,São Paulo,Sudeste,-22.01412510635475,-49.10176210224329,389,20.27,50.3,24.5,0.476,25.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,SE,Sergipe,Nordeste,-10.283942828691586,-37.116070214245184,738,58.44,60.3,28.4,0.474,40.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,8,2026-08,TO,Tocantins,Norte,-9.459308104335467,-47.72349432552729,2011,228.76,100.6,29.1,0.656,79.2,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,AC,Acre,Norte,-8.470959299607747,-70.43057445512778,1483,144.08,166.4,29.8,0.659,60.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,AL,Alagoas,Nordeste,-9.552735141971805,-36.52714355517266,870,58.47,62.8,31.9,0.462,47.3,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,AP,Amapá,Norte,1.7940270670622533,-51.46648440551029,1761,223.37,121.0,28.8,0.633,73.5,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,AM,Amazonas,Norte,-2.872434566654272,-65.36978658095504,1892,203.35,56.8,29.1,0.704,75.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,BA,Bahia,Nordeste,-12.84792419771791,-38.08254676901019,649,45.54,26.0,30.9,0.514,41.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,CE,Ceará,Nordeste,-5.1075108327374314,-39.54411686857492,808,57.43,41.7,29.6,0.344,43.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,DF,Distrito Federal,Centro-Oeste,-15.571616969214343,-48.26016864687935,1572,121.37,65.9,27.7,0.563,59.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,ES,Espírito Santo,Sudeste,-19.586697356402418,-40.21752669966271,532,33.97,47.5,25.3,0.512,30.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,GO,Goiás,Centro-Oeste,-16.234359666708706,-49.49566603917077,1463,136.14,123.9,27.7,0.588,57.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,MA,Maranhão,Nordeste,-5.132177335186486,-45.732943124053854,874,70.26,33.2,29.6,0.372,46.2,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,MT,Mato Grosso,Centro-Oeste,-12.56637151026069,-54.884382902475956,2084,157.85,67.0,28.5,0.517,72.8,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,MS,Mato Grosso do Sul,Centro-Oeste,-20.404313684939883,-54.73159263296841,1443,135.13,104.4,27.7,0.479,57.7,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,MG,Minas Gerais,Sudeste,-18.299914390929466,-44.36465992018885,532,29.96,45.8,24.9,0.559,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,PA,Pará,Norte,-3.5832394825713862,-52.55703980593918,2650,243.87,112.4,29.0,0.717,90.7,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,PB,Paraíba,Nordeste,-7.369301699241872,-35.820560398360946,805,55.73,23.8,30.0,0.533,44.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,PR,Paraná,Sul,-24.85766812292603,-52.09761774456753,274,20.08,88.4,21.9,0.479,18.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,PE,Pernambuco,Nordeste,-8.494115873826605,-34.672418253919666,809,63.38,27.3,28.6,0.516,43.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,PI,Piauí,Nordeste,-7.843521295188433,-43.19217270519176,795,57.02,53.7,29.1,0.436,42.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,RJ,Rio de Janeiro,Sudeste,-21.94315003476486,-42.322545440539805,539,32.23,59.2,24.8,0.587,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,RN,Rio Grande do Norte,Nordeste,-5.66411944893091,-36.18150772419885,789,47.36,77.3,29.8,0.388,41.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,RS,Rio Grande do Sul,Sul,-29.834861992852083,-54.449414397333655,288,21.18,104.6,21.1,0.492,17.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,RO,Rondônia,Norte,-11.023291438239413,-63.72400027737009,2107,183.2,96.0,28.8,0.659,75.5,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,RR,Roraima,Norte,2.0352156156660985,-61.35214588596392,2029,213.52,70.0,30.3,0.657,80.4,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,SC,Santa Catarina,Sul,-27.762758254801692,-51.52448304046074,278,20.6,80.1,21.6,0.457,18.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,SP,São Paulo,Sudeste,-22.201296912935916,-48.8204796541501,434,22.97,56.9,26.9,0.565,29.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,SE,Sergipe,Nordeste,-10.279736679595999,-37.671078033579775,887,61.22,41.7,28.7,0.451,43.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,9,2026-09,TO,Tocantins,Norte,-9.120720744157182,-48.48099089444829,1917,180.22,107.1,27.0,0.667,69.3,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,AC,Acre,Norte,-8.303606986317204,-70.22487379526372,1049,146.07,127.8,28.8,0.627,53.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,AL,Alagoas,Nordeste,-9.21768771063858,-36.97939463702401,490,61.08,55.2,30.3,0.336,39.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,AP,Amapá,Norte,1.8964174468812243,-52.24082338478301,1124,228.1,125.6,28.7,0.558,63.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,AM,Amazonas,Norte,-3.362097777726413,-65.31013499250489,1151,186.18,167.9,29.6,0.67,59.4,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,BA,Bahia,Nordeste,-13.086821645141137,-38.25036219696345,462,51.51,62.0,30.6,0.456,38.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,CE,Ceará,Nordeste,-5.264234860255003,-39.953219548933866,513,51.35,40.6,29.9,0.479,38.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,DF,Distrito Federal,Centro-Oeste,-16.037973805333582,-48.07565021031713,978,121.62,74.0,29.1,0.615,51.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,ES,Espírito Santo,Sudeste,-18.67662610508536,-40.16305475137475,310,35.61,92.6,25.5,0.486,25.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,GO,Goiás,Centro-Oeste,-16.10137005186835,-50.065027453207044,1030,107.38,85.4,27.7,0.497,48.6,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,MA,Maranhão,Nordeste,-5.077539768016708,-45.723685020437564,590,58.42,61.8,30.7,0.322,41.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,MT,Mato Grosso,Centro-Oeste,-13.07385580438376,-55.20725588144275,1387,161.36,70.3,28.3,0.626,61.5,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,MS,Mato Grosso do Sul,Centro-Oeste,-20.5471317223695,-54.108307873276566,1067,129.32,123.6,28.0,0.612,50.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,MG,Minas Gerais,Sudeste,-18.28089640911084,-44.163338468694015,307,28.47,89.6,25.4,0.421,25.0,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,PA,Pará,Norte,-3.8910012910039353,-52.520095799615376,1787,255.14,164.2,27.9,0.655,74.9,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,PB,Paraíba,Nordeste,-7.384061466361902,-35.5897833411785,521,62.27,39.9,29.9,0.427,39.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,PR,Paraná,Sul,-24.444549843110057,-51.95931822022105,184,18.32,77.7,22.1,0.505,17.6,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,PE,Pernambuco,Nordeste,-9.006991948820856,-35.15234586849036,485,75.14,30.7,28.7,0.469,39.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,PI,Piauí,Nordeste,-7.316328148004966,-42.909406078942474,614,48.5,15.9,28.6,0.478,38.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,RJ,Rio de Janeiro,Sudeste,-22.53730762284339,-42.809381468227336,362,38.05,99.6,25.6,0.372,26.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,RN,Rio Grande do Norte,Nordeste,-5.425530293381863,-36.46481852167912,506,56.86,64.3,30.8,0.42,39.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,RS,Rio Grande do Sul,Sul,-30.35030981468221,-53.54428161393388,187,20.44,78.7,23.6,0.45,19.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,RO,Rondônia,Norte,-10.565764431850312,-64.0196505307828,1413,234.26,113.2,27.9,0.725,68.1,Crítico,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,RR,Roraima,Norte,2.0308905609602643,-61.77995685026461,1159,148.11,88.9,28.3,0.724,55.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,SC,Santa Catarina,Sul,-27.273505238186566,-50.767492710329165,200,15.81,85.3,21.3,0.509,16.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,SP,São Paulo,Sudeste,-22.036179883197022,-48.824408446609034,320,26.9,68.8,25.4,0.509,25.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,SE,Sergipe,Nordeste,-10.053442297323613,-37.27799407118696,436,60.06,52.5,29.3,0.358,37.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,10,2026-10,TO,Tocantins,Norte,-9.652705473450249,-48.081608769071366,1195,165.59,82.9,30.0,0.687,60.9,Alto,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,AC,Acre,Norte,-9.686346619542297,-71.06855327004297,482,115.08,262.5,27.7,0.695,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,AL,Alagoas,Nordeste,-9.393131998323428,-36.595256227529546,219,32.19,81.6,27.8,0.465,27.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,AP,Amapá,Norte,1.0956904707864394,-52.03811582084014,435,93.89,158.5,28.8,0.773,36.9,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,AM,Amazonas,Norte,-3.8544432262868935,-65.31669303188747,630,61.4,223.9,27.9,0.783,33.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,BA,Bahia,Nordeste,-12.916538510339386,-38.64326719135163,178,21.41,68.2,29.7,0.442,28.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,CE,Ceará,Nordeste,-5.4974023225171935,-39.69904437412549,222,30.32,96.0,27.9,0.525,27.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,DF,Distrito Federal,Centro-Oeste,-16.663258686933226,-48.50038863532283,571,56.49,129.8,27.2,0.617,33.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,ES,Espírito Santo,Sudeste,-18.947373839419456,-41.0496870450848,203,21.57,96.6,24.7,0.566,21.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,GO,Goiás,Centro-Oeste,-16.472442111736395,-49.71920617297955,461,62.02,145.2,29.5,0.597,35.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,MA,Maranhão,Nordeste,-5.779128295468468,-45.30650103386298,384,37.04,72.5,29.7,0.516,33.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,MT,Mato Grosso,Centro-Oeste,-13.06355617604331,-55.26649724817765,795,102.78,127.3,27.2,0.678,42.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,MS,Mato Grosso do Sul,Centro-Oeste,-20.938127080521678,-54.04138029377297,410,78.55,122.9,28.5,0.637,35.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,MG,Minas Gerais,Sudeste,-18.346298639766005,-43.78767869963788,212,19.23,99.7,24.7,0.558,21.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,PA,Pará,Norte,-3.9190167780249947,-52.19753375418766,905,85.63,224.0,27.8,0.726,40.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,PB,Paraíba,Nordeste,-7.3408505139526925,-35.347374973000065,330,33.1,81.4,28.9,0.481,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,PR,Paraná,Sul,-25.222833684083067,-51.3064237646707,108,13.13,174.4,20.6,0.625,10.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,PE,Pernambuco,Nordeste,-8.342122159320999,-35.04114538167781,256,25.06,91.0,26.8,0.384,25.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,PI,Piauí,Nordeste,-7.71567809115858,-42.32510817663705,263,21.63,73.9,29.2,0.512,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,RJ,Rio de Janeiro,Sudeste,-21.860764783272533,-42.42014847035116,196,15.29,109.7,23.8,0.544,18.9,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,RN,Rio Grande do Norte,Nordeste,-5.8176498616047425,-36.342469019168504,343,29.49,107.7,28.7,0.561,29.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,RS,Rio Grande do Sul,Sul,-30.632312298877157,-52.749947530895284,124,9.7,147.8,22.1,0.573,13.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,RO,Rondônia,Norte,-10.741191946128808,-63.96757673926934,692,116.66,255.0,27.6,0.675,39.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,RR,Roraima,Norte,2.0262383538822113,-60.829096758783386,598,100.96,200.9,26.9,0.818,36.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,SC,Santa Catarina,Sul,-26.935575509424375,-51.1677945780129,96,8.34,149.1,20.9,0.515,11.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,SP,São Paulo,Sudeste,-21.580670479691054,-49.24131820552339,96,19.37,105.1,24.4,0.453,18.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,SE,Sergipe,Nordeste,-10.85340369251855,-37.38426988168512,282,36.98,93.2,28.9,0.386,30.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,11,2026-11,TO,Tocantins,Norte,-8.691173880757367,-47.99138222940605,579,104.98,237.0,28.9,0.663,38.4,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,AC,Acre,Norte,-9.602451080955664,-70.48257196357319,564,107.3,417.1,26.9,0.718,30.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,AL,Alagoas,Nordeste,-9.060597930629637,-36.986856459506704,296,31.12,124.1,27.3,0.501,26.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,AP,Amapá,Norte,1.1438727255743544,-51.90776405371156,671,66.65,344.6,27.8,0.688,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,AM,Amazonas,Norte,-2.8411671794137443,-65.39872341802146,715,79.2,312.1,28.1,0.67,34.5,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,BA,Bahia,Nordeste,-12.572818954399011,-38.43975545699889,216,21.57,162.4,29.3,0.428,26.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,CE,Ceará,Nordeste,-4.564135529648714,-39.974251886835084,291,29.24,122.6,29.2,0.45,29.2,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,DF,Distrito Federal,Centro-Oeste,-15.527513065355476,-48.80764034938341,656,63.54,206.7,28.2,0.575,35.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,ES,Espírito Santo,Sudeste,-18.944069000525243,-40.25569313497986,163,14.67,153.0,24.7,0.571,18.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,GO,Goiás,Centro-Oeste,-15.969333255127781,-50.17403855215644,480,70.97,202.7,28.2,0.653,33.1,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,MA,Maranhão,Nordeste,-5.437891542555382,-45.434356324234834,295,32.99,129.4,29.1,0.519,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,MT,Mato Grosso,Centro-Oeste,-12.474399091356275,-55.66601900331385,722,81.11,178.3,26.1,0.572,35.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,MS,Mato Grosso do Sul,Centro-Oeste,-20.11542746872558,-54.935447450026494,506,70.91,211.9,26.6,0.665,31.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,MG,Minas Gerais,Sudeste,-18.18727936881037,-44.787064927599616,141,20.32,176.1,23.1,0.473,15.7,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,PA,Pará,Norte,-3.2899339432871306,-51.97799161572677,848,137.39,382.8,27.9,0.789,40.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,PB,Paraíba,Nordeste,-6.449395645473663,-35.24905825348639,292,19.27,141.5,29.7,0.476,28.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,PR,Paraná,Sul,-24.470991190463252,-51.8326569690344,110,12.23,229.0,19.1,0.553,7.1,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,PE,Pernambuco,Nordeste,-8.22844569986382,-35.30817291671742,269,24.92,162.2,30.2,0.431,28.6,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,PI,Piauí,Nordeste,-8.069773317753759,-43.32871117405278,307,34.5,147.0,29.2,0.641,29.3,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,RJ,Rio de Janeiro,Sudeste,-22.58411633568252,-42.478623367344106,173,12.4,148.1,24.1,0.499,17.5,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,RN,Rio Grande do Norte,Nordeste,-5.681984004867479,-37.26954873021708,257,30.25,148.3,28.3,0.465,26.7,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,RS,Rio Grande do Sul,Sul,-29.883091098959667,-53.56841542525509,62,10.77,233.0,22.8,0.589,11.3,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,RO,Rondônia,Norte,-10.731288023276731,-62.762299462868505,770,145.2,246.5,28.4,0.847,44.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,RR,Roraima,Norte,1.6060937222156049,-61.04227687268861,563,95.71,328.5,26.3,0.666,30.8,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,SC,Santa Catarina,Sul,-27.446924045078774,-50.92974758340064,114,10.72,241.5,21.0,0.646,9.4,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,SP,São Paulo,Sudeste,-22.57462068915487,-48.54940063570572,143,17.1,170.4,25.7,0.488,19.2,Baixo,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,SE,Sergipe,Nordeste,-10.080270217475094,-36.91130017896627,276,28.56,148.2,28.4,0.469,27.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
+2026,12,2026-12,TO,Tocantins,Norte,-10.282659548418527,-47.674496129335516,817,95.8,374.0,27.3,0.68,35.0,Moderado,Dataset sintético acadêmico inspirado em INPE/BDQueimadas/NASA EarthData/MapBiomas
