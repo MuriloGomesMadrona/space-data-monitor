@@ -1,168 +1,159 @@
 trigger:
-branches:
-include:
-- main
+  branches:
+    include:
+      - main
 
 variables:
-azureServiceConnection: 'AzureConnection'
-resourceGroup: 'rg-space-data-monitor'
-location: 'brazilsouth'
+  azureServiceConnection: 'AzureConnection'
+  resourceGroup: 'rg-space-data-monitor'
+  location: 'brazilsouth'
 
-acrName: 'acrspacedatamonitormurilo'
-imageName: 'space-data-monitor'
+  acrName: 'acrspacedatamonitormurilo'
+  imageName: 'space-data-monitor'
 
-containerName: 'aci-space-data-monitor'
-dnsLabel: 'space-data-monitor-madrona'
-containerPort: '8080'
+  containerName: 'aci-space-data-monitor'
+  dnsLabel: 'space-data-monitor-madrona'
+  containerPort: '8080'
 
 pool:
-vmImage: 'ubuntu-latest'
+  vmImage: 'ubuntu-latest'
 
 stages:
-
-* stage: BuildPushDeploy
+- stage: BuildPushDeploy
   displayName: Build, Push and Deploy
+
   jobs:
-
-  * job: Pipeline
+  - job: Pipeline
     displayName: SpaceData Monitor Pipeline
+
     steps:
+    - checkout: self
 
-    * checkout: self
-
-    * task: AzureCLI@2
+    - task: AzureCLI@2
       displayName: Preparar recursos Azure
       inputs:
-      azureSubscription: '$(azureServiceConnection)'
-      scriptType: bash
-      scriptLocation: inlineScript
-      inlineScript: |
-      set -e
+        azureSubscription: '$(azureServiceConnection)'
+        scriptType: bash
+        scriptLocation: inlineScript
+        inlineScript: |
+          set -e
 
-      ```
-      echo "Criando/validando Resource Group..."
-      az group create \
-        --name $(resourceGroup) \
-        --location $(location)
+          echo "Criando/validando Resource Group..."
+          az group create \
+            --name $(resourceGroup) \
+            --location $(location)
 
-      echo "Criando/validando Azure Container Registry..."
-      az acr create \
-        --resource-group $(resourceGroup) \
-        --name $(acrName) \
-        --sku Basic \
-        --admin-enabled true || true
+          echo "Criando/validando Azure Container Registry..."
+          az acr create \
+            --resource-group $(resourceGroup) \
+            --name $(acrName) \
+            --sku Basic \
+            --admin-enabled true || true
 
-      echo "Habilitando Admin User do ACR..."
-      az acr update \
-        --name $(acrName) \
-        --admin-enabled true
-      ```
+          echo "Habilitando Admin User do ACR..."
+          az acr update \
+            --name $(acrName) \
+            --admin-enabled true
 
-    * task: AzureCLI@2
+    - task: AzureCLI@2
       displayName: Build e Push da imagem Docker
       inputs:
-      azureSubscription: '$(azureServiceConnection)'
-      scriptType: bash
-      scriptLocation: inlineScript
-      inlineScript: |
-      set -e
+        azureSubscription: '$(azureServiceConnection)'
+        scriptType: bash
+        scriptLocation: inlineScript
+        inlineScript: |
+          set -e
 
-      ```
-      ACR_LOGIN_SERVER=$(az acr show \
-        --name $(acrName) \
-        --query loginServer \
-        --output tsv)
+          ACR_LOGIN_SERVER=$(az acr show \
+            --name $(acrName) \
+            --query loginServer \
+            --output tsv)
 
-      IMAGE_TAG="$(Build.BuildId)"
-      FULL_IMAGE_NAME="$ACR_LOGIN_SERVER/$(imageName):$IMAGE_TAG"
-      LATEST_IMAGE_NAME="$ACR_LOGIN_SERVER/$(imageName):latest"
+          IMAGE_TAG="$(Build.BuildId)"
+          FULL_IMAGE_NAME="$ACR_LOGIN_SERVER/$(imageName):$IMAGE_TAG"
+          LATEST_IMAGE_NAME="$ACR_LOGIN_SERVER/$(imageName):latest"
 
-      echo "Login no ACR..."
-      az acr login --name $(acrName)
+          echo "Login no ACR..."
+          az acr login --name $(acrName)
 
-      echo "Build da imagem Docker..."
-      docker build -t $FULL_IMAGE_NAME -t $LATEST_IMAGE_NAME .
+          echo "Build da imagem Docker..."
+          docker build -t $FULL_IMAGE_NAME -t $LATEST_IMAGE_NAME .
 
-      echo "Push da imagem com tag do build..."
-      docker push $FULL_IMAGE_NAME
+          echo "Push da imagem com tag do build..."
+          docker push $FULL_IMAGE_NAME
 
-      echo "Push da imagem latest..."
-      docker push $LATEST_IMAGE_NAME
+          echo "Push da imagem latest..."
+          docker push $LATEST_IMAGE_NAME
 
-      echo "Imagem publicada:"
-      echo $FULL_IMAGE_NAME
+          echo "Imagem publicada:"
+          echo $FULL_IMAGE_NAME
 
-      echo "##vso[task.setvariable variable=fullImageName]$FULL_IMAGE_NAME"
-      ```
+          echo "##vso[task.setvariable variable=fullImageName]$FULL_IMAGE_NAME"
 
-    * task: AzureCLI@2
+    - task: AzureCLI@2
       displayName: Deploy no Azure Container Instance
       inputs:
-      azureSubscription: '$(azureServiceConnection)'
-      scriptType: bash
-      scriptLocation: inlineScript
-      inlineScript: |
-      set -e
+        azureSubscription: '$(azureServiceConnection)'
+        scriptType: bash
+        scriptLocation: inlineScript
+        inlineScript: |
+          set -e
 
-      ```
-      ACR_LOGIN_SERVER=$(az acr show \
-        --name $(acrName) \
-        --query loginServer \
-        --output tsv)
+          ACR_LOGIN_SERVER=$(az acr show \
+            --name $(acrName) \
+            --query loginServer \
+            --output tsv)
 
-      ACR_USERNAME=$(az acr credential show \
-        --name $(acrName) \
-        --query username \
-        --output tsv)
+          ACR_USERNAME=$(az acr credential show \
+            --name $(acrName) \
+            --query username \
+            --output tsv)
 
-      ACR_PASSWORD=$(az acr credential show \
-        --name $(acrName) \
-        --query "passwords[0].value" \
-        --output tsv)
+          ACR_PASSWORD=$(az acr credential show \
+            --name $(acrName) \
+            --query "passwords[0].value" \
+            --output tsv)
 
-      echo "Removendo ACI anterior, caso exista..."
-      az container delete \
-        --resource-group $(resourceGroup) \
-        --name $(containerName) \
-        --yes || true
+          echo "Removendo ACI anterior, caso exista..."
+          az container delete \
+            --resource-group $(resourceGroup) \
+            --name $(containerName) \
+            --yes || true
 
-      echo "Criando Azure Container Instance..."
-      az container create \
-        --resource-group $(resourceGroup) \
-        --name $(containerName) \
-        --image $(fullImageName) \
-        --registry-login-server $ACR_LOGIN_SERVER \
-        --registry-username $ACR_USERNAME \
-        --registry-password $ACR_PASSWORD \
-        --dns-name-label $(dnsLabel) \
-        --ports $(containerPort) \
-        --os-type Linux \
-        --cpu 1 \
-        --memory 1.5 \
-        --restart-policy Always
+          echo "Criando Azure Container Instance..."
+          az container create \
+            --resource-group $(resourceGroup) \
+            --name $(containerName) \
+            --image $(fullImageName) \
+            --registry-login-server $ACR_LOGIN_SERVER \
+            --registry-username $ACR_USERNAME \
+            --registry-password $ACR_PASSWORD \
+            --dns-name-label $(dnsLabel) \
+            --ports $(containerPort) \
+            --os-type Linux \
+            --cpu 1 \
+            --memory 1.5 \
+            --restart-policy Always
 
-      APP_URL="http://$(dnsLabel).$(location).azurecontainer.io:$(containerPort)"
+          APP_URL="http://$(dnsLabel).$(location).azurecontainer.io:$(containerPort)"
 
-      echo "Aplicação publicada em:"
-      echo $APP_URL
+          echo "Aplicação publicada em:"
+          echo $APP_URL
 
-      echo "##vso[task.setvariable variable=appUrl]$APP_URL"
-      ```
+          echo "##vso[task.setvariable variable=appUrl]$APP_URL"
 
-    * task: AzureCLI@2
+    - task: AzureCLI@2
       displayName: Validar URL pública
       inputs:
-      azureSubscription: '$(azureServiceConnection)'
-      scriptType: bash
-      scriptLocation: inlineScript
-      inlineScript: |
-      echo "URL final da aplicação:"
-      echo "$(appUrl)"
+        azureSubscription: '$(azureServiceConnection)'
+        scriptType: bash
+        scriptLocation: inlineScript
+        inlineScript: |
+          echo "URL final da aplicação:"
+          echo "$(appUrl)"
 
-      ```
-      az container show \
-        --resource-group $(resourceGroup) \
-        --name $(containerName) \
-        --query "{name:name, state:instanceView.state, fqdn:ipAddress.fqdn, ports:ipAddress.ports}" \
-        --output table
-      ```
+          az container show \
+            --resource-group $(resourceGroup) \
+            --name $(containerName) \
+            --query "{name:name, state:instanceView.state, fqdn:ipAddress.fqdn, ports:ipAddress.ports}" \
+            --output table
